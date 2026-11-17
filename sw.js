@@ -1,4 +1,4 @@
-const CACHE = "tt-v3";
+const CACHE = "tt-v4";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
                "./icons/icon-192.png", "./icons/icon-512.png"];
 
@@ -13,7 +13,7 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   if (e.request.method !== "GET") return;
   e.respondWith(
-    fetch(e.request).then((r) => {
+    fetch(e.request, { cache: "reload" }).then((r) => {
       if (r && r.ok && new URL(e.request.url).origin === location.origin){
         const copy = r.clone();
         caches.open(CACHE).then((c) => c.put(e.request, copy));

@@ -196,7 +196,7 @@ if (window.matchMedia && !matchMedia("(display-mode: standalone)"))
   setTimeout(() => { if (!deferredInstall)
     document.getElementById("installBanner").classList.add("show"); }, 2500);
 
-document.getElementById("reload").addEventListener("click", () => { cache = {}; load(); });
+document.getElementById("reload").addEventListener("click", () => { cache = {}; location.reload(); });
 load();
 </script>
 
