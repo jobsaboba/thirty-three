@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T09:55:19+00:00",
+  "generated": "2026-11-17T10:04:23+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -9,11 +9,11 @@
     "days": 14
   },
   "counts": {
-    "races": 10,
-    "picks": 11,
-    "trainers": 9,
-    "staked": 1.0,
-    "pending": 10
+    "races": 9,
+    "picks": 10,
+    "trainers": 8,
+    "staked": 0.9,
+    "pending": 9
   },
   "races": [
     {
@@ -89,24 +89,6 @@
       ]
     },
     {
-      "time": "14:10",
-      "meeting": "Limerick",
-      "n": 17,
-      "picks": [
-        {
-          "horse": "Good Bye Milan",
-          "odds": "7/1",
-          "trainer": "Gillian Scott",
-          "wins": 2,
-          "runs": 3,
-          "sr": 67.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.1
-        }
-      ]
-    },
-    {
       "time": "14:25",
       "meeting": "Carlisle",
       "n": 17,
@@ -127,7 +109,7 @@
     {
       "time": "15:15",
       "meeting": "Limerick",
-      "n": 17,
+      "n": 13,
       "picks": [
         {
           "horse": "Vision De Maine",
@@ -156,7 +138,7 @@
     {
       "time": "15:50",
       "meeting": "Limerick",
-      "n": 12,
+      "n": 9,
       "picks": [
         {
           "horse": "Cant Stopthe Clock",
