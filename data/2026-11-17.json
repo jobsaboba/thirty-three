@@ -1,16 +1,16 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T08:59:59+00:00",
-  "source": "computed",
+  "generated": "2026-11-17T09:00:42+00:00",
+  "source": "horseracing.net",
   "rule": {
     "sr_min": 33.0,
     "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 5,
-    "picks": 5,
-    "trainers": 2
+    "races": 6,
+    "picks": 7,
+    "trainers": 6
   },
   "races": [
     {
@@ -19,42 +19,27 @@
       "n": 14,
       "picks": [
         {
-          "horse": "They're Chancers",
-          "odds": "3/1",
-          "trainer": "N G Richards",
-          "wins": 4,
+          "horse": "Katagat",
+          "odds": "12/1",
+          "trainer": "David Killahena & Graeme McPherson",
+          "wins": 3,
           "runs": 9,
-          "sr": 44.4
+          "sr": 33.0
         }
       ]
     },
     {
-      "time": "12:50",
+      "time": "13:55",
       "meeting": "Carlisle",
-      "n": 10,
+      "n": 12,
       "picks": [
         {
-          "horse": "Abbey Farmer",
-          "odds": "10/1",
-          "trainer": "N G Richards",
-          "wins": 4,
+          "horse": "King Berry",
+          "odds": "7/2",
+          "trainer": "Max Comley",
+          "wins": 3,
           "runs": 9,
-          "sr": 44.4
-        }
-      ]
-    },
-    {
-      "time": "13:25",
-      "meeting": "Carlisle",
-      "n": 9,
-      "picks": [
-        {
-          "horse": "Pedro The Poet",
-          "odds": "16/1",
-          "trainer": "N G Richards",
-          "wins": 4,
-          "runs": 9,
-          "sr": 44.4
+          "sr": 33.0
         }
       ]
     },
@@ -66,25 +51,63 @@
         {
           "horse": "Good Bye Milan",
           "odds": "7/1",
-          "trainer": "G Scott",
+          "trainer": "Gillian Scott",
           "wins": 2,
           "runs": 3,
-          "sr": 66.7
+          "sr": 67.0
         }
       ]
     },
     {
-      "time": "14:25",
-      "meeting": "Carlisle",
+      "time": "15:15",
+      "meeting": "Limerick",
       "n": 17,
       "picks": [
         {
-          "horse": "Doyen Du Bar",
-          "odds": "10/3",
-          "trainer": "N G Richards",
-          "wins": 4,
-          "runs": 9,
-          "sr": 44.4
+          "horse": "Cock And Bull",
+          "odds": "8/1",
+          "trainer": "Emmet Mullins",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0
+        },
+        {
+          "horse": "Vision De Maine",
+          "odds": "7/1",
+          "trainer": "Emmet Mullins",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "meeting": "Limerick",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Cant Stopthe Clock",
+          "odds": "20/1",
+          "trainer": "Edward F Power",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Bintnaseefa",
+          "odds": "9/2",
+          "trainer": "Harry Charlton",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
         }
       ]
     }
