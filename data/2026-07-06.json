@@ -1,9 +1,10 @@
 {
   "date": "2026-07-06",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
@@ -22,7 +23,7 @@
           "odds": "9/1",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         },
         {
@@ -30,7 +31,7 @@
           "odds": "22/1",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         }
       ]
@@ -45,7 +46,7 @@
           "odds": "9/2",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         },
         {
@@ -53,7 +54,7 @@
           "odds": "10/1",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         }
       ]
@@ -68,7 +69,7 @@
           "odds": "28/1",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         }
       ]
@@ -83,7 +84,7 @@
           "odds": "9/1",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         }
       ]
@@ -98,7 +99,7 @@
           "odds": "18/1",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         }
       ]
@@ -113,7 +114,7 @@
           "odds": "9/2",
           "trainer": "I Jardine",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
           "sr": 33.3
         }
       ]

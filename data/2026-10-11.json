@@ -1,15 +1,47 @@
 {
   "date": "2026-10-11",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 2,
+    "picks": 2,
+    "trainers": 1
   },
-  "races": []
+  "races": [
+    {
+      "time": "14:12",
+      "meeting": "Chepstow",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Western George",
+          "odds": "7/1",
+          "trainer": "J A O Neill",
+          "wins": 2,
+          "runs": 3,
+          "sr": 66.7
+        }
+      ]
+    },
+    {
+      "time": "15:22",
+      "meeting": "Chepstow",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Gower Prince",
+          "odds": "5/2",
+          "trainer": "J A O Neill",
+          "wins": 2,
+          "runs": 3,
+          "sr": 66.7
+        }
+      ]
+    }
+  ]
 }

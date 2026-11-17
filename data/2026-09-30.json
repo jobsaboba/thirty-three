@@ -1,15 +1,32 @@
 {
   "date": "2026-09-30",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 1,
+    "picks": 1,
+    "trainers": 1
   },
-  "races": []
+  "races": [
+    {
+      "time": "14:23",
+      "meeting": "Musselburgh",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Sovereigns High",
+          "odds": "5/1",
+          "trainer": "R M Beckett",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3
+        }
+      ]
+    }
+  ]
 }

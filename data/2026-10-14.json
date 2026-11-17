@@ -1,9 +1,10 @@
 {
   "date": "2026-10-14",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
@@ -20,9 +21,9 @@
         {
           "horse": "Crebilly",
           "odds": "11/4",
-          "trainer": "J & A O'Neill",
+          "trainer": "J A O Neill",
           "wins": 3,
-          "rides": 5,
+          "runs": 5,
           "sr": 60.0
         }
       ]

@@ -1,15 +1,40 @@
 {
   "date": "2026-11-15",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 1,
+    "picks": 2,
+    "trainers": 1
   },
-  "races": []
+  "races": [
+    {
+      "time": "12:40",
+      "meeting": "Navan",
+      "n": 16,
+      "picks": [
+        {
+          "horse": "Mr Caulfield",
+          "odds": "8/1",
+          "trainer": "N C Kelly",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0
+        },
+        {
+          "horse": "Invincible Oscar",
+          "odds": "6/1",
+          "trainer": "N C Kelly",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0
+        }
+      ]
+    }
+  ]
 }

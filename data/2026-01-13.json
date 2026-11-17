@@ -1,15 +1,47 @@
 {
   "date": "2026-01-13",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 2,
+    "picks": 2,
+    "trainers": 1
   },
-  "races": []
+  "races": [
+    {
+      "time": "13:48",
+      "meeting": "Ayr",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Shoeshine Boy",
+          "odds": "11/2",
+          "trainer": "D W Whillans",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ayr",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Melbourne Ghost",
+          "odds": "10/1",
+          "trainer": "D W Whillans",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    }
+  ]
 }

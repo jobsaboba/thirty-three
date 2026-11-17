@@ -1,15 +1,16 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 3,
-    "picks": 3,
-    "trainers": 2
+    "races": 5,
+    "picks": 9,
+    "trainers": 5
   },
   "races": [
     {
@@ -18,11 +19,65 @@
       "n": 22,
       "picks": [
         {
+          "horse": "Crystal Yeats",
+          "odds": "100/1",
+          "trainer": "N C Kelly",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        },
+        {
           "horse": "The Irish Avatar",
           "odds": "9/4",
           "trainer": "W P Mullins",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
+          "sr": 33.3
+        },
+        {
+          "horse": "Tidy Town",
+          "odds": "33/1",
+          "trainer": "N Meade",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3
+        }
+      ]
+    },
+    {
+      "time": "12:42",
+      "meeting": "Uttoxeter",
+      "n": 6,
+      "picks": [
+        {
+          "horse": "Ocean View",
+          "odds": "50/1",
+          "trainer": "T Ellis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3
+        },
+        {
+          "horse": "Carrigane",
+          "odds": "50/1",
+          "trainer": "T Ellis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3
+        }
+      ]
+    },
+    {
+      "time": "13:35",
+      "meeting": "Navan",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Joe Cool",
+          "odds": "20/1",
+          "trainer": "N Meade",
+          "wins": 2,
+          "runs": 6,
           "sr": 33.3
         }
       ]
@@ -37,7 +92,7 @@
           "odds": "8/1",
           "trainer": "Jamie Snowden",
           "wins": 3,
-          "rides": 8,
+          "runs": 8,
           "sr": 37.5
         }
       ]
@@ -52,7 +107,15 @@
           "odds": "4/1",
           "trainer": "W P Mullins",
           "wins": 3,
-          "rides": 9,
+          "runs": 9,
+          "sr": 33.3
+        },
+        {
+          "horse": "Noble Indulgence",
+          "odds": "25/1",
+          "trainer": "N Meade",
+          "wins": 2,
+          "runs": 6,
           "sr": 33.3
         }
       ]

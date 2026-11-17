@@ -1,15 +1,16 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 4,
-    "picks": 4,
-    "trainers": 1
+    "races": 5,
+    "picks": 5,
+    "trainers": 2
   },
   "races": [
     {
@@ -22,7 +23,7 @@
           "odds": "3/1",
           "trainer": "N G Richards",
           "wins": 4,
-          "rides": 9,
+          "runs": 9,
           "sr": 44.4
         }
       ]
@@ -37,7 +38,7 @@
           "odds": "10/1",
           "trainer": "N G Richards",
           "wins": 4,
-          "rides": 9,
+          "runs": 9,
           "sr": 44.4
         }
       ]
@@ -52,8 +53,23 @@
           "odds": "16/1",
           "trainer": "N G Richards",
           "wins": 4,
-          "rides": 9,
+          "runs": 9,
           "sr": 44.4
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Limerick",
+      "n": 17,
+      "picks": [
+        {
+          "horse": "Good Bye Milan",
+          "odds": "7/1",
+          "trainer": "G Scott",
+          "wins": 2,
+          "runs": 3,
+          "sr": 66.7
         }
       ]
     },
@@ -67,7 +83,7 @@
           "odds": "10/3",
           "trainer": "N G Richards",
           "wins": 4,
-          "rides": 9,
+          "runs": 9,
           "sr": 44.4
         }
       ]

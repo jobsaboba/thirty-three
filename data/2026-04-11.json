@@ -1,15 +1,40 @@
 {
   "date": "2026-04-11",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 1,
+    "picks": 2,
+    "trainers": 1
   },
-  "races": []
+  "races": [
+    {
+      "time": "12:05",
+      "meeting": "Chepstow",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Jollie Dame",
+          "odds": "14/1",
+          "trainer": "D Skelton",
+          "wins": 2,
+          "runs": 3,
+          "sr": 66.7
+        },
+        {
+          "horse": "Burning Embers",
+          "odds": "50/1",
+          "trainer": "D Skelton",
+          "wins": 2,
+          "runs": 3,
+          "sr": 66.7
+        }
+      ]
+    }
+  ]
 }

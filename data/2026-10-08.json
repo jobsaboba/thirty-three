@@ -1,15 +1,70 @@
 {
   "date": "2026-10-08",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 3,
+    "picks": 4,
+    "trainers": 2
   },
-  "races": []
+  "races": [
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Saxon Prince",
+          "odds": "9/2",
+          "trainer": "J S Quinn",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Topwarrior",
+          "odds": "9/4",
+          "trainer": "R M Beckett",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        },
+        {
+          "horse": "Eye Of Dubai",
+          "odds": "10/3",
+          "trainer": "J S Quinn",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Ayr",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Empirestateofmind",
+          "odds": "11/8",
+          "trainer": "J S Quinn",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    }
+  ]
 }

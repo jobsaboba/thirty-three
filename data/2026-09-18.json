@@ -1,15 +1,154 @@
 {
   "date": "2026-09-18",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 7,
+    "picks": 11,
+    "trainers": 2
   },
-  "races": []
+  "races": [
+    {
+      "time": "12:20",
+      "meeting": "Ayr",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Bai Tong",
+          "odds": "22/1",
+          "trainer": "K R Burke",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        },
+        {
+          "horse": "Motown Filly",
+          "odds": "11/4",
+          "trainer": "R Spencer",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    },
+    {
+      "time": "12:55",
+      "meeting": "Ayr",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Tropical Crown",
+          "odds": "8/1",
+          "trainer": "K R Burke",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        },
+        {
+          "horse": "Baddaddan",
+          "odds": "11/1",
+          "trainer": "R Spencer",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Nour",
+          "odds": "12/1",
+          "trainer": "K R Burke",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        },
+        {
+          "horse": "Underdog",
+          "odds": "16/1",
+          "trainer": "R Spencer",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Ayr",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Beautiful Diamond",
+          "odds": "13/8",
+          "trainer": "K R Burke",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        },
+        {
+          "horse": "Lam Yai",
+          "odds": "11/1",
+          "trainer": "K R Burke",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ayr",
+      "n": 24,
+      "picks": [
+        {
+          "horse": "Righthere Rightnow",
+          "odds": "17/2",
+          "trainer": "R Spencer",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Ayr",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Royale Union",
+          "odds": "20/1",
+          "trainer": "K R Burke",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Ayr",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Ice Cube",
+          "odds": "11/8",
+          "trainer": "R Spencer",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0
+        }
+      ]
+    }
+  ]
 }

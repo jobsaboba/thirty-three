@@ -1,15 +1,40 @@
 {
   "date": "2026-04-22",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 1,
+    "picks": 2,
+    "trainers": 1
   },
-  "races": []
+  "races": [
+    {
+      "time": "12:40",
+      "meeting": "Perth",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Newbrook Diamond",
+          "odds": "11/2",
+          "trainer": "G Elliott",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        },
+        {
+          "horse": "Holy Joe",
+          "odds": "20/1",
+          "trainer": "G Elliott",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0
+        }
+      ]
+    }
+  ]
 }

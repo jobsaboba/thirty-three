@@ -1,15 +1,55 @@
 {
   "date": "2026-09-28",
-  "generated": "2026-11-17T08:37:11+00:00",
+  "generated": "2026-11-17T08:59:59+00:00",
+  "source": "computed",
   "rule": {
-    "wins_min": 3,
     "sr_min": 33.0,
+    "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 0,
-    "picks": 0,
-    "trainers": 0
+    "races": 2,
+    "picks": 3,
+    "trainers": 2
   },
-  "races": []
+  "races": [
+    {
+      "time": "14:29",
+      "meeting": "Hamilton",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Impartiality",
+          "odds": "4/1",
+          "trainer": "Phillip Makin",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0
+        },
+        {
+          "horse": "Callisto Dream",
+          "odds": "14/1",
+          "trainer": "E Bethell",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3
+        }
+      ]
+    },
+    {
+      "time": "15:38",
+      "meeting": "Hamilton",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Impressor",
+          "odds": "9/2",
+          "trainer": "Phillip Makin",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0
+        }
+      ]
+    }
+  ]
 }
