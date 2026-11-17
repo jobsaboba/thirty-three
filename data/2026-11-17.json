@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T13:01:06+00:00",
+  "generated": "2026-11-17T13:32:21+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -73,7 +73,7 @@
     {
       "time": "13:55",
       "meeting": "Carlisle",
-      "n": 12,
+      "n": 11,
       "picks": [
         {
           "horse": "King Berry",
@@ -109,7 +109,7 @@
     {
       "time": "15:15",
       "meeting": "Limerick",
-      "n": 12,
+      "n": 11,
       "picks": [
         {
           "horse": "Vision De Maine",
