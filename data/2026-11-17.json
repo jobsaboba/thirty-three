@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T18:30:59+00:00",
+  "generated": "2026-11-17T19:01:09+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -113,7 +113,7 @@
       "picks": [
         {
           "horse": "Miss Deeds",
-          "odds": "9/2",
+          "odds": "5/1",
           "trainer": "William Haggas",
           "wins": 4,
           "runs": 9,
