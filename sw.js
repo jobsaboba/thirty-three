@@ -1,4 +1,4 @@
-const CACHE = "tt-v7";
+const CACHE = "tt-v8";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
                "./icons/icon-192-v2.png", "./icons/icon-512-v2.png"];
 
