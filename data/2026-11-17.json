@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T09:21:59+00:00",
+  "generated": "2026-11-17T09:55:19+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -11,7 +11,9 @@
   "counts": {
     "races": 10,
     "picks": 11,
-    "trainers": 9
+    "trainers": 9,
+    "staked": 1.0,
+    "pending": 10
   },
   "races": [
     {
@@ -25,7 +27,10 @@
           "trainer": "David Killahena & Graeme McPherson",
           "wins": 3,
           "runs": 9,
-          "sr": 33.0
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -40,7 +45,10 @@
           "trainer": "Sandy Thomson",
           "wins": 3,
           "runs": 9,
-          "sr": 33.0
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -55,7 +63,10 @@
           "trainer": "Sandy Thomson",
           "wins": 3,
           "runs": 9,
-          "sr": 33.0
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -70,7 +81,10 @@
           "trainer": "Max Comley",
           "wins": 3,
           "runs": 9,
-          "sr": 33.0
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -85,7 +99,10 @@
           "trainer": "Gillian Scott",
           "wins": 2,
           "runs": 3,
-          "sr": 67.0
+          "sr": 67.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -100,7 +117,10 @@
           "trainer": "Ann Hamilton",
           "wins": 2,
           "runs": 4,
-          "sr": 50.0
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -115,7 +135,10 @@
           "trainer": "Emmet Mullins",
           "wins": 2,
           "runs": 5,
-          "sr": 40.0
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         },
         {
           "horse": "Cock And Bull",
@@ -123,7 +146,10 @@
           "trainer": "Emmet Mullins",
           "wins": 2,
           "runs": 5,
-          "sr": 40.0
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -138,7 +164,10 @@
           "trainer": "Edward F Power",
           "wins": 2,
           "runs": 5,
-          "sr": 40.0
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -153,7 +182,10 @@
           "trainer": "Harry Charlton",
           "wins": 2,
           "runs": 2,
-          "sr": 100.0
+          "sr": 100.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
         }
       ]
     },
@@ -168,9 +200,19 @@
           "trainer": "William Haggas",
           "wins": 4,
           "runs": 9,
-          "sr": 44.0
+          "sr": 44.0,
+          "res": "",
+          "pos": null,
+          "stake": null
         }
       ]
     }
-  ]
+  ],
+  "bank": {
+    "open": 10.0,
+    "now": 10.0,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
 }
