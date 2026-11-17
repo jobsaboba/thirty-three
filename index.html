@@ -91,8 +91,8 @@
 <div id="races"><div class="none">loading…</div></div>
 
 <footer>
-  every horse whose trainer has <b>3+ wins</b> and a <b>33%+ strike rate</b> over the last 14 days<br>
-  strike rates from the family's settled results (8+-runner cards) · races with no hot trainer are left out
+  hot trainers from <b>horseracing.net/stats</b> — best strike rate from at least <b>2 wins</b>, last 14 days · 33%+ cut<br>
+  days before the snapshot record began use the same rule computed from the family's settled results
 </footer>
 
 <script>
@@ -124,11 +124,13 @@ function render(d){
 
   const c = j.counts || {};
   const hot = (c.picks || 0) > 0;
-  document.getElementById("chips").innerHTML = hot
-    ? `<span class="chip hot">${c.races} races with picks</span>` +
+  const src = j.source === "horseracing.net" ? "horseracing.net ✓" : "computed from results";
+  document.getElementById("chips").innerHTML =
+    `<span class="chip hot">${src}</span>` + (hot
+    ? `<span class="chip">${c.races} races with picks</span>` +
       `<span class="chip">${c.picks} selections</span>` +
       `<span class="chip">${c.trainers} hot trainers</span>`
-    : `<span class="chip">no hot trainers this day</span>`;
+    : `<span class="chip">no hot trainers this day</span>`);
 
   const box = document.getElementById("races");
   const races = j.races || [];
@@ -148,7 +150,7 @@ function render(d){
       <div class="prow">
         <div class="top"><b>${esc(p.horse)}</b>${p.odds ? `<span class="odds">${esc(p.odds)}</span>` : ""}</div>
         <div class="sub">${esc(p.trainer)}
-          <span class="sr" title="wins from rides, last 14 days">${p.wins} from ${p.rides} · ${p.sr}%</span>
+          <span class="sr" title="wins from runs, last 14 days — horseracing.net">${p.wins} from ${p.runs ?? p.rides} · ${p.sr}%</span>
         </div>
       </div>`).join("")}
     </div>`).join("");

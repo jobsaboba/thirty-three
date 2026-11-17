@@ -1,15 +1,22 @@
 # 33% — Top Trainers
 
-Every horse whose trainer has **3+ wins and a 33%+ strike rate over the last
-14 days**, listed race by race. Nothing else — race, selection, trainer, and
-the stats that earned the pick.
+Every horse whose trainer is on **horseracing.net's Hot Trainers table**
+(https://www.horseracing.net/stats) with a **33%+ strike rate** — the site's
+own rule: "best strike rate from at least 2 wins in the last 14 days".
+Listed race by race: race, selection, trainer, and the stats that earned
+the pick.
 
-- Strike rates are computed from the Holy Grail's settled sheets of record
-  (8+-runner cards), the same source every app in the family trusts — no
-  third-party scraping, no captchas, no missing days.
-- A race with no hot trainer is left out entirely.
-- Refreshed every morning (~05:55) with the day's card, and settled race by
-  race through the afternoon (every 30 min, 13:00–22:00).
+- The site's table is fetched at publish time and snapshotted per day
+  (`racing-scripts/cache/horseracing_net/{date}.json`), so each day's list
+  is exactly what the site showed that morning.
+- Site trainer names are matched onto the day's cards ("Nicky Richards" ↔
+  "N G Richards") by surname, with first-initial disambiguation so
+  Emmet Mullins never picks Willie Mullins' horses.
+- Days before the snapshot record began (and fetch failures) fall back to
+  the same rule computed from the family's settled 8+-runner sheets —
+  labelled "computed from results" in the app.
+- Refreshed every morning (~05:55) with the day's card, and again every
+  30 min through the afternoon (13:00–22:00) as results land.
 - The whole season since 1 Jan is backfilled; swipe the day strip.
 
 Installable PWA — blue on black, like the rest of the family.
