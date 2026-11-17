@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T10:12:08+00:00",
+  "generated": "2026-11-17T13:01:06+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -9,11 +9,11 @@
     "days": 14
   },
   "counts": {
-    "races": 9,
-    "picks": 9,
-    "trainers": 8,
-    "staked": 0.9,
-    "pending": 9
+    "races": 7,
+    "picks": 7,
+    "trainers": 6,
+    "staked": 0.7,
+    "pending": 5
   },
   "races": [
     {
@@ -28,8 +28,8 @@
           "wins": 3,
           "runs": 9,
           "sr": 33.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 5,
           "stake": 0.1
         }
       ]
@@ -46,8 +46,8 @@
           "wins": 3,
           "runs": 9,
           "sr": 33.0,
-          "res": "",
-          "pos": 0,
+          "res": "WIN",
+          "pos": 1,
           "stake": 0.1
         }
       ]
@@ -109,7 +109,7 @@
     {
       "time": "15:15",
       "meeting": "Limerick",
-      "n": 13,
+      "n": 12,
       "picks": [
         {
           "horse": "Vision De Maine",
@@ -125,49 +125,13 @@
       ]
     },
     {
-      "time": "15:50",
-      "meeting": "Limerick",
-      "n": 9,
-      "picks": [
-        {
-          "horse": "Cant Stopthe Clock",
-          "odds": "20/1",
-          "trainer": "Edward F Power",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.1
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Southwell",
-      "n": 10,
-      "picks": [
-        {
-          "horse": "Bintnaseefa",
-          "odds": "9/2",
-          "trainer": "Harry Charlton",
-          "wins": 2,
-          "runs": 2,
-          "sr": 100.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.1
-        }
-      ]
-    },
-    {
       "time": "20:00",
       "meeting": "Southwell",
-      "n": 7,
+      "n": 6,
       "picks": [
         {
           "horse": "Miss Deeds",
-          "odds": "11/4",
+          "odds": "7/2",
           "trainer": "William Haggas",
           "wins": 4,
           "runs": 9,
@@ -181,8 +145,8 @@
   ],
   "bank": {
     "open": 10.0,
-    "now": 10.0,
-    "pl": 0.0,
+    "now": 12.4,
+    "pl": 2.4,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
