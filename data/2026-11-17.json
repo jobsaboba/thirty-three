@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T10:04:23+00:00",
+  "generated": "2026-11-17T10:11:27+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -10,7 +10,7 @@
   },
   "counts": {
     "races": 9,
-    "picks": 10,
+    "picks": 9,
     "trainers": 8,
     "staked": 0.9,
     "pending": 9
@@ -121,17 +121,6 @@
           "res": "",
           "pos": 0,
           "stake": 0.1
-        },
-        {
-          "horse": "Cock And Bull",
-          "odds": "8/1",
-          "trainer": "Emmet Mullins",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.1
         }
       ]
     },
@@ -178,14 +167,14 @@
       "picks": [
         {
           "horse": "Miss Deeds",
-          "odds": "",
+          "odds": "43/10",
           "trainer": "William Haggas",
           "wins": 4,
           "runs": 9,
           "sr": 44.0,
           "res": "",
           "pos": null,
-          "stake": null
+          "stake": 0.1
         }
       ]
     }
