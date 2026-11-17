@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-24",
+  "generated": "2026-11-17T08:37:11+00:00",
+  "rule": {
+    "wins_min": 3,
+    "sr_min": 33.0,
+    "days": 14
+  },
+  "counts": {
+    "races": 0,
+    "picks": 0,
+    "trainers": 0
+  },
+  "races": []
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-13",
+  "generated": "2026-11-17T08:37:11+00:00",
+  "rule": {
+    "wins_min": 3,
+    "sr_min": 33.0,
+    "days": 14
+  },
+  "counts": {
+    "races": 1,
+    "picks": 1,
+    "trainers": 1
+  },
+  "races": [
+    {
+      "time": "14:55",
+      "meeting": "Cheltenham",
+      "n": 6,
+      "picks": [
+        {
+          "horse": "Ga Law",
+          "odds": "6/1",
+          "trainer": "Jamie Snowden",
+          "wins": 3,
+          "rides": 7,
+          "sr": 42.9
+        }
+      ]
+    }
+  ]
+}

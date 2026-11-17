@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-17",
+  "generated": "2026-11-17T08:37:11+00:00",
+  "rule": {
+    "wins_min": 3,
+    "sr_min": 33.0,
+    "days": 14
+  },
+  "counts": {
+    "races": 4,
+    "picks": 4,
+    "trainers": 1
+  },
+  "races": [
+    {
+      "time": "11:50",
+      "meeting": "Carlisle",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "They're Chancers",
+          "odds": "3/1",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "rides": 9,
+          "sr": 44.4
+        }
+      ]
+    },
+    {
+      "time": "12:50",
+      "meeting": "Carlisle",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Abbey Farmer",
+          "odds": "10/1",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "rides": 9,
+          "sr": 44.4
+        }
+      ]
+    },
+    {
+      "time": "13:25",
+      "meeting": "Carlisle",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Pedro The Poet",
+          "odds": "16/1",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "rides": 9,
+          "sr": 44.4
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Carlisle",
+      "n": 17,
+      "picks": [
+        {
+          "horse": "Doyen Du Bar",
+          "odds": "10/3",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "rides": 9,
+          "sr": 44.4
+        }
+      ]
+    }
+  ]
+}
