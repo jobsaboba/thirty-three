@@ -40,17 +40,18 @@
   .banner.show{display:block}
   .banner.blue{background:#0a1a2e; border-color:#1d4a6e; color:var(--sky2)}
 
-  .days{display:flex; gap:6px; overflow-x:auto; padding:2px 0 10px; scrollbar-width:none}
-  .days::-webkit-scrollbar{display:none}
-  .day{border:1px solid var(--line); background:var(--panel); color:var(--dim); border-radius:999px;
-    padding:6px 11px; font-size:.72rem; font-weight:800; white-space:nowrap; cursor:pointer; flex-shrink:0}
-  .day.on{background:var(--sky); border-color:var(--sky); color:#04121f}
-  .day .dot{display:inline-block; width:6px; height:6px; border-radius:50%; background:var(--sky2); margin-left:5px; opacity:.85}
-
-  .chips{display:flex; gap:6px; margin-bottom:12px; flex-wrap:wrap}
+  .chips{display:flex; gap:6px; margin-bottom:10px; flex-wrap:wrap}
   .chip{font-size:.66rem; font-weight:800; letter-spacing:.5px; padding:4px 9px; border-radius:999px;
     border:1px solid var(--line); color:var(--dim); background:var(--panel)}
   .chip.hot{color:var(--sky2); border-color:#1d4a6e}
+
+  .bankbar{display:flex; gap:6px; align-items:center; flex-wrap:wrap; margin:0 0 12px; font-size:.72rem; color:var(--dim)}
+  .bankbar .bb-line b{color:var(--ink)}
+  .bankbar .arr{color:var(--dim)}
+  .bbchip{font-size:.62rem; font-weight:900; padding:4px 9px; border-radius:999px;
+    border:1px solid var(--line); background:var(--panel); color:var(--dim)}
+  .bbchip.up{color:#4ade80; border-color:#14532d}
+  .bbchip.dn{color:#f87171; border-color:#7f1d1d}
 
   .race{background:var(--panel); border:1px solid var(--line); border-radius:14px; margin-bottom:10px; overflow:hidden}
   .rhead{padding:10px 12px; display:flex; justify-content:space-between; align-items:center; gap:8px}
@@ -65,9 +66,25 @@
   .prow .sub{display:flex; align-items:center; gap:7px; margin-top:3px; font-size:.64rem; color:var(--dim); flex-wrap:wrap}
   .sr{font-size:.6rem; font-weight:900; padding:2px 7px; border-radius:999px;
     background:#0a1a2e; border:1px solid #1d4a6e; color:var(--sky2); white-space:nowrap}
+  .stk{font-size:.6rem; font-weight:900; padding:2px 7px; border-radius:999px;
+    background:#0a1a2e; border:1px solid #1d4a6e; color:var(--sky2); white-space:nowrap}
+  .stk.noodds{color:var(--dim); border-color:var(--line); background:var(--panel)}
+
+  .rtag{font-size:.6rem; font-weight:900; padding:2px 7px; border-radius:999px; white-space:nowrap; margin-left:auto}
+  .rtag.win{background:#14532d; color:#4ade80}
+  .rtag.place{background:#78350f; color:#fbbf24}
+  .rtag.lose{background:#7f1d1d; color:#fca5a5}
+
+  .prow.win{background:#07230d; border-top:1px solid #14532d}
+  .prow.win .top b{color:#4ade80}
+  .prow.place{background:#231403; border-top:1px solid #7c4a08}
+  .prow.place .top b{color:#fbbf24}
+  .prow.lose{background:#240707; border-top:1px solid #7f1d1d}
+  .prow.lose .top b{color:#fca5a5}
 
   .none{padding:30px 10px; text-align:center; color:var(--dim); font-size:.8rem}
   footer{color:#33415e; font-size:.62rem; text-align:center; padding:18px 0 6px; line-height:1.6}
+  footer b{color:#4a5c7e}
 </style>
 </head>
 <body>
@@ -86,19 +103,20 @@
   Android Chrome — ⋮ menu → “Add to Home screen”
 </div>
 
-<div class="banner blue" id="offline">You're offline — showing the last downloaded day.</div>
+<div class="banner blue" id="offline">You're offline — showing the last downloaded card.</div>
 
-<div class="days" id="days"></div>
 <div class="chips" id="chips"></div>
+<div class="bankbar" id="bankbar"></div>
 <div id="races"><div class="none">loading…</div></div>
 
 <footer>
   hot trainers from <b>horseracing.net/stats</b> — best strike rate from at least <b>2 wins</b>, last 14 days · 33%+ cut<br>
-  days before the snapshot record began use the same rule computed from the family's settled results
+  results settle through the afternoon — <span style="color:#4ade80;font-weight:800">won</span> ·
+  <span style="color:#fbbf24;font-weight:800">placed</span> · <span style="color:#fca5a5;font-weight:800">lost</span><br>
+  every horse staked <b>1% of the rolling bank</b>, win-only · bank started £10 on 17 Nov 2026
 </footer>
 
 <script>
-let DAYS = [];
 let CURRENT = null;
 let cache = {};
 
@@ -118,11 +136,17 @@ async function getDay(d){
   return j;
 }
 
+const rcls = p => p.res === "WIN" ? "win"
+  : p.res === "PLACE" ? "place"
+  : p.res === "LOSE" ? "lose" : "";
+const rtag = p => p.res === "WIN" ? "1st"
+  : p.res === "PLACE" ? (p.pos === 2 ? "2nd" : p.pos === 3 ? "3rd" : (p.pos ? p.pos + "th" : "placed"))
+  : p.res === "LOSE" ? (p.pos ? p.pos + "th" : "lost") : "";
+
 function render(d){
   const j = cache[d];
   if (!j){ return; }
   document.getElementById("dchip").textContent = d.slice(5);
-  document.querySelectorAll(".day").forEach(el => el.classList.toggle("on", el.dataset.d === d));
 
   const c = j.counts || {};
   const hot = (c.picks || 0) > 0;
@@ -134,10 +158,16 @@ function render(d){
       `<span class="chip">${c.trainers} hot trainers</span>`
     : `<span class="chip">no hot trainers this day</span>`);
 
+  const b = j.bank;
+  document.getElementById("bankbar").innerHTML = b ? `
+    <span class="bb-line">bank <b>£${b.open.toFixed(2)}</b> <span class="arr">→</span> <b>£${b.now.toFixed(2)}</b></span>
+    <span class="bbchip ${b.pl > 0 ? "up" : b.pl < 0 ? "dn" : ""}">${b.pl >= 0 ? "+" : "−"}£${Math.abs(b.pl).toFixed(2)} today</span>
+    <span class="bbchip">1% = £${(b.open / 100).toFixed(2)} a horse</span>` : "";
+
   const box = document.getElementById("races");
   const races = j.races || [];
   if (!races.length){
-    box.innerHTML = `<div class="none">no trainer on a 33%+ heater that day</div>`;
+    box.innerHTML = `<div class="none">no trainer on a 33%+ heater today</div>`;
     return;
   }
   box.innerHTML = races.map(rc => `
@@ -149,23 +179,14 @@ function render(d){
         <div class="m">hot <b>${(rc.picks||[]).length}</b></div>
       </div>
       ${(rc.picks||[]).map(p => `
-      <div class="prow">
-        <div class="top"><b>${esc(p.horse)}</b>${p.odds ? `<span class="odds">${esc(p.odds)}</span>` : ""}</div>
+      <div class="prow ${rcls(p)}">
+        <div class="top"><b>${esc(p.horse)}</b>${p.odds ? `<span class="odds">${esc(p.odds)}</span>` : ""}${rtag(p) ? `<span class="rtag ${rcls(p)}">${rtag(p)}</span>` : ""}</div>
         <div class="sub">${esc(p.trainer)}
           <span class="sr" title="wins from runs, last 14 days — horseracing.net">${p.wins} from ${p.runs ?? p.rides} · ${p.sr}%</span>
+          ${j.bank ? (p.stake != null ? `<span class="stk">£${p.stake.toFixed(2)}</span>` : `<span class="stk noodds">no odds</span>`) : ""}
         </div>
       </div>`).join("")}
     </div>`).join("");
-}
-
-function dayStrip(){
-  const el = document.getElementById("days");
-  el.innerHTML = DAYS.map(d => {
-    const hot = cache[d] ? (cache[d].counts || {}).picks > 0 : false;
-    return `<button class="day" data-d="${d}">${d.slice(5)}${hot ? '<span class="dot"></span>' : ""}</button>`;
-  }).join("");
-  el.querySelectorAll(".day").forEach(b =>
-    b.addEventListener("click", () => { CURRENT = b.dataset.d; render(CURRENT); }));
 }
 
 async function load(){
@@ -173,10 +194,8 @@ async function load(){
   btn.classList.add("spin");
   try {
     const idx = await getIndex();
-    DAYS = idx.days || [];
-    CURRENT = idx.latest || DAYS[0];
-    for (const d of DAYS.slice(0, 3)) { try { await getDay(d); } catch(e){} }
-    dayStrip();
+    CURRENT = idx.latest;
+    await getDay(CURRENT);
     render(CURRENT);
   } catch(e){
     document.getElementById("offline").classList.add("show");

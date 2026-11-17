@@ -1,27 +1,22 @@
 # 33% — Top Trainers
 
-Every horse whose trainer is on **horseracing.net's Hot Trainers table**
-(https://www.horseracing.net/stats) with a **33%+ strike rate** — the site's
-own rule: "best strike rate from at least 2 wins in the last 14 days".
-Listed race by race: race, selection, trainer, and the stats that earned
-the pick.
+**Today only**, race by race: every horse whose trainer is on
+horseracing.net's Hot Trainers table (https://www.horseracing.net/stats)
+with a **33%+ strike rate** — the site's own rule: "best strike rate from
+at least 2 wins in the last 14 days". No date tabs, no history — the app
+is today's card.
 
-- The site's hot-trainers table is fetched at publish time and snapshotted
-  per day (`racing-scripts/cache/horseracing_net/{date}.json`), so each
-  day's list is exactly what the site showed that morning.
-- Cards come from horseracing.net's own racecards — every race, any size
-  (7-runner evening races included), trainers spelled exactly as the hot
-  list spells them — also snapshotted per day. Race day files record
-  `card_source` (site cards or the family's settled sheets).
-- Fallback matching (sheet days) handles the sheets' initials and titles
-  ("Nicky Richards" ↔ "N G Richards", "Sandy Thomson" ↔ "A M Thomson",
-  "Ann Hamilton" ↔ "Mrs A Hamilton"), with first-initial disambiguation
-  so Emmet Mullins never picks Willie Mullins' horses.
-- Days before the snapshot record began (and fetch failures) fall back to
-  the same rule computed from the family's settled 8+-runner sheets —
-  labelled "computed from results" in the app.
-- Refreshed every morning (~05:55) with the day's card, and again every
-  30 min through the afternoon (13:00–22:00) as results land.
-- The whole season since 1 Jan is backfilled; swipe the day strip.
+- The hot list and the day's cards are both snapshotted daily; the app
+  shows today only (older day files are pruned on each publish).
+- Results settle into the list through the afternoon — winners **green**,
+  placed (2nd/3rd) **orange**, losers **red**.
+- **Rolling bank**: started at **£10 on 17 Nov 2026**; every horse is
+  staked **1% of the day's opening bank**, win-only. Wins pay full odds,
+  places and losers forfeit the stake, and the bank rolls into the next
+  day. Horses without a price (small-field races) are listed but unstaked.
+- Horses confirmed non-runners (reserves included) drop off the list.
+- Fallback: if the site can't be reached, the same rule is computed from
+  the family's settled sheets and the day is labelled as such.
+- Refreshed every morning (~05:55) and every 30 min (13:00–22:00).
 
 Installable PWA — blue on black, like the rest of the family.
