@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T16:01:06+00:00",
+  "generated": "2026-11-17T16:08:05+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -9,13 +9,103 @@
     "days": 14
   },
   "counts": {
-    "races": 1,
-    "picks": 1,
-    "trainers": 1,
-    "staked": 0.1,
+    "races": 6,
+    "picks": 6,
+    "trainers": 5,
+    "staked": 0.6,
     "pending": 1
   },
   "races": [
+    {
+      "time": "11:50",
+      "meeting": "Carlisle",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Katagat",
+          "odds": "12/1",
+          "trainer": "David Killahena & Graeme McPherson",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "LOSE",
+          "pos": 5,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "12:50",
+      "meeting": "Carlisle",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Handball Maradona",
+          "odds": "25/1",
+          "trainer": "Sandy Thomson",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "WIN",
+          "pos": 1,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "13:25",
+      "meeting": "Carlisle",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Biscuit Billy",
+          "odds": "16/1",
+          "trainer": "Sandy Thomson",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "LOSE",
+          "pos": 4,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "13:55",
+      "meeting": "Carlisle",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "King Berry",
+          "odds": "7/2",
+          "trainer": "Max Comley",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "WIN",
+          "pos": 1,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Carlisle",
+      "n": 16,
+      "picks": [
+        {
+          "horse": "Double Digits",
+          "odds": "10/1",
+          "trainer": "Ann Hamilton",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0,
+          "res": "PLACE",
+          "pos": 3,
+          "stake": 0.1
+        }
+      ]
+    },
     {
       "time": "20:00",
       "meeting": "Southwell",
@@ -37,8 +127,8 @@
   ],
   "bank": {
     "open": 10.0,
-    "now": 10.0,
-    "pl": 0.0,
+    "now": 12.55,
+    "pl": 2.55,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
