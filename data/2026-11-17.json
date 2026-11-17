@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T16:08:05+00:00",
+  "generated": "2026-11-17T16:12:15+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -10,9 +10,9 @@
   },
   "counts": {
     "races": 6,
-    "picks": 6,
-    "trainers": 5,
-    "staked": 0.6,
+    "picks": 10,
+    "trainers": 6,
+    "staked": 1.0,
     "pending": 1
   },
   "races": [
@@ -21,6 +21,17 @@
       "meeting": "Carlisle",
       "n": 14,
       "picks": [
+        {
+          "horse": "They're Chancers",
+          "odds": "3/1",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.4,
+          "res": "LOSE",
+          "pos": 6,
+          "stake": 0.1
+        },
         {
           "horse": "Katagat",
           "odds": "12/1",
@@ -40,6 +51,17 @@
       "n": 10,
       "picks": [
         {
+          "horse": "Abbey Farmer",
+          "odds": "10/1",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.4,
+          "res": "LOSE",
+          "pos": 8,
+          "stake": 0.1
+        },
+        {
           "horse": "Handball Maradona",
           "odds": "25/1",
           "trainer": "Sandy Thomson",
@@ -57,6 +79,17 @@
       "meeting": "Carlisle",
       "n": 9,
       "picks": [
+        {
+          "horse": "Pedro The Poet",
+          "odds": "16/1",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.4,
+          "res": "LOSE",
+          "pos": 7,
+          "stake": 0.1
+        },
         {
           "horse": "Biscuit Billy",
           "odds": "16/1",
@@ -103,6 +136,17 @@
           "res": "PLACE",
           "pos": 3,
           "stake": 0.1
+        },
+        {
+          "horse": "Doyen Du Bar",
+          "odds": "10/3",
+          "trainer": "N G Richards",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.4,
+          "res": "PLACE",
+          "pos": 4,
+          "stake": 0.1
         }
       ]
     },
@@ -127,8 +171,8 @@
   ],
   "bank": {
     "open": 10.0,
-    "now": 12.55,
-    "pl": 2.55,
+    "now": 12.15,
+    "pl": 2.15,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
