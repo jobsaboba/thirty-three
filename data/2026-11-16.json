@@ -1,15 +1,16 @@
 {
   "date": "2026-11-16",
-  "generated": "2026-11-17T08:59:59+00:00",
+  "generated": "2026-11-17T09:21:59+00:00",
   "source": "computed",
+  "card_source": "grail sheet",
   "rule": {
     "sr_min": 33.0,
     "wins_min": 2,
     "days": 14
   },
   "counts": {
-    "races": 2,
-    "picks": 2,
+    "races": 3,
+    "picks": 4,
     "trainers": 2
   },
   "races": [
@@ -29,17 +30,40 @@
       ]
     },
     {
-      "time": "15:45",
-      "meeting": "Plumpton",
-      "n": 8,
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "n": 9,
       "picks": [
         {
-          "horse": "Freddiemissmolli",
+          "horse": "Sue's Last Chance",
+          "odds": "10/1",
+          "trainer": "Peter Fahey",
+          "wins": 3,
+          "runs": 5,
+          "sr": 60.0
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Kissamee",
+          "odds": "100/1",
+          "trainer": "Peter Fahey",
+          "wins": 3,
+          "runs": 5,
+          "sr": 60.0
+        },
+        {
+          "horse": "Kirton Angel",
           "odds": "12/1",
-          "trainer": "Mrs J Williams",
-          "wins": 2,
-          "runs": 4,
-          "sr": 50.0
+          "trainer": "Peter Fahey",
+          "wins": 3,
+          "runs": 5,
+          "sr": 60.0
         }
       ]
     }
