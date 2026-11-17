@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T13:32:21+00:00",
+  "generated": "2026-11-17T14:01:08+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -9,11 +9,11 @@
     "days": 14
   },
   "counts": {
-    "races": 7,
-    "picks": 7,
-    "trainers": 6,
-    "staked": 0.7,
-    "pending": 5
+    "races": 6,
+    "picks": 6,
+    "trainers": 5,
+    "staked": 0.6,
+    "pending": 3
   },
   "races": [
     {
@@ -64,8 +64,8 @@
           "wins": 3,
           "runs": 9,
           "sr": 33.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 4,
           "stake": 0.1
         }
       ]
@@ -91,7 +91,7 @@
     {
       "time": "14:25",
       "meeting": "Carlisle",
-      "n": 17,
+      "n": 16,
       "picks": [
         {
           "horse": "Double Digits",
@@ -100,24 +100,6 @@
           "wins": 2,
           "runs": 4,
           "sr": 50.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.1
-        }
-      ]
-    },
-    {
-      "time": "15:15",
-      "meeting": "Limerick",
-      "n": 11,
-      "picks": [
-        {
-          "horse": "Vision De Maine",
-          "odds": "7/1",
-          "trainer": "Emmet Mullins",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
           "res": "",
           "pos": 0,
           "stake": 0.1
@@ -145,8 +127,8 @@
   ],
   "bank": {
     "open": 10.0,
-    "now": 12.4,
-    "pl": 2.4,
+    "now": 12.3,
+    "pl": 2.3,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
