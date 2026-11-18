@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T14:32:56+00:00",
+  "generated": "2026-11-18T15:01:17+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -140,8 +140,8 @@
     "races": 15,
     "picks": 22,
     "trainers": 12,
-    "staked": 2.52,
-    "pending": 17
+    "staked": 2.28,
+    "pending": 15
   },
   "races": [
     {
@@ -234,25 +234,25 @@
       "picks": [
         {
           "horse": "Clodders Dream",
-          "odds": "66/1",
+          "odds": "",
           "trainer": "M Comley",
           "wins": 3,
           "runs": 8,
           "sr": 37.5,
           "res": "",
           "pos": null,
-          "stake": 0.12
+          "stake": null
         },
         {
           "horse": "Rob Roy Macgregor",
-          "odds": "8/1",
+          "odds": "",
           "trainer": "A M Thomson",
           "wins": 4,
           "runs": 11,
           "sr": 36.4,
           "res": "",
           "pos": null,
-          "stake": 0.12
+          "stake": null
         }
       ]
     },
@@ -263,7 +263,7 @@
       "picks": [
         {
           "horse": "Browney Bank",
-          "odds": "9/2",
+          "odds": "11/2",
           "trainer": "Mrs A Hamilton",
           "wins": 2,
           "runs": 4,
