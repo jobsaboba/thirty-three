@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T16:31:18+00:00",
+  "generated": "2026-11-18T17:01:20+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -137,11 +137,11 @@
     }
   ],
   "counts": {
-    "races": 14,
-    "picks": 21,
+    "races": 15,
+    "picks": 22,
     "trainers": 12,
-    "staked": 2.04,
-    "pending": 13
+    "staked": 2.16,
+    "pending": 12
   },
   "races": [
     {
@@ -275,6 +275,24 @@
       ]
     },
     {
+      "time": "16:25",
+      "meeting": "Kempton",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Manssoor",
+          "odds": "16/1",
+          "trainer": "John Butler",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "LOSE",
+          "pos": 6,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
       "time": "16:30",
       "meeting": "Dundalk",
       "n": 13,
@@ -286,8 +304,8 @@
           "wins": 2,
           "runs": 5,
           "sr": 40.0,
-          "res": "",
-          "pos": 0,
+          "res": "WIN",
+          "pos": 1,
           "stake": 0.12
         }
       ]
@@ -476,8 +494,8 @@
   ],
   "bank": {
     "open": 12.45,
-    "now": 12.25,
-    "pl": -0.2,
+    "now": 12.79,
+    "pl": 0.34,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
