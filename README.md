@@ -13,9 +13,9 @@ at least 2 wins in the last 14 days".
 - **Rolling bank**: started at **£10 on 17 Nov 2026**; every horse is
   staked **1% of the day's opening bank**, win-only. Wins pay full odds,
   places and losers forfeit the stake, and the bank rolls into the next
-  day. Horses without a price (small-field races) are listed but unstaked.
-- Every race on the site's card counts, whatever its size — 5, 6 and
-  7-runner races included.
+  day. Horses without a price are listed but unstaked.
+- **8+ runner races only** — races with fewer than eight runners are not
+  eligible.
 - Horses confirmed non-runners (reserves included) drop off the list.
 - Fallback: if the site can't be reached, the same rule is computed from
   the family's settled sheets and the day is labelled as such.
