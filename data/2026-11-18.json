@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T19:31:27+00:00",
+  "generated": "2026-11-18T20:01:21+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -140,8 +140,8 @@
     "races": 15,
     "picks": 22,
     "trainers": 12,
-    "staked": 2.04,
-    "pending": 3
+    "staked": 1.92,
+    "pending": 2
   },
   "races": [
     {
@@ -451,14 +451,14 @@
       "picks": [
         {
           "horse": "Zachary Hickes",
-          "odds": "6/5",
+          "odds": "",
           "trainer": "Roger Varian",
           "wins": 2,
           "runs": 6,
           "sr": 33.0,
           "res": "",
           "pos": null,
-          "stake": 0.12
+          "stake": null
         }
       ]
     },
