@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T17:01:20+00:00",
+  "generated": "2026-11-18T17:31:29+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -141,7 +141,7 @@
     "picks": 22,
     "trainers": 12,
     "staked": 2.16,
-    "pending": 12
+    "pending": 10
   },
   "races": [
     {
@@ -322,8 +322,8 @@
           "wins": 2,
           "runs": 6,
           "sr": 33.3,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 10,
           "stake": 0.12
         },
         {
@@ -333,8 +333,8 @@
           "wins": 3,
           "runs": 9,
           "sr": 33.0,
-          "res": "",
-          "pos": 0,
+          "res": "WIN",
+          "pos": 1,
           "stake": 0.12
         }
       ]
@@ -346,7 +346,7 @@
       "picks": [
         {
           "horse": "Conciliate",
-          "odds": "4/1",
+          "odds": "7/2",
           "trainer": "John Butler",
           "wins": 2,
           "runs": 6,
@@ -494,8 +494,8 @@
   ],
   "bank": {
     "open": 12.45,
-    "now": 12.79,
-    "pl": 0.34,
+    "now": 13.04,
+    "pl": 0.58,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
