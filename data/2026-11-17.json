@@ -1,12 +1,13 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-18T06:03:27+00:00",
+  "generated": "2026-11-18T21:11:29+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
     "sr_min": 33.0,
     "wins_min": 2,
-    "days": 14
+    "days": 14,
+    "min_runners": 8
   },
   "hot_trainers": [
     {
@@ -65,10 +66,10 @@
     }
   ],
   "counts": {
-    "races": 6,
-    "picks": 6,
-    "trainers": 5,
-    "staked": 0.6,
+    "races": 5,
+    "picks": 5,
+    "trainers": 4,
+    "staked": 0.5,
     "pending": 0
   },
   "races": [
@@ -161,30 +162,12 @@
           "stake": 0.1
         }
       ]
-    },
-    {
-      "time": "20:00",
-      "meeting": "Southwell",
-      "n": 6,
-      "picks": [
-        {
-          "horse": "Miss Deeds",
-          "odds": "8/1",
-          "trainer": "William Haggas",
-          "wins": 4,
-          "runs": 9,
-          "sr": 44.0,
-          "res": "PLACE",
-          "pos": 2,
-          "stake": 0.1
-        }
-      ]
     }
   ],
   "bank": {
     "open": 10.0,
-    "now": 12.45,
-    "pl": 2.45,
+    "now": 12.55,
+    "pl": 2.55,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
