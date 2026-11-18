@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T15:32:31+00:00",
+  "generated": "2026-11-18T16:01:39+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -140,8 +140,8 @@
     "races": 15,
     "picks": 22,
     "trainers": 12,
-    "staked": 2.28,
-    "pending": 15
+    "staked": 2.16,
+    "pending": 14
   },
   "races": [
     {
@@ -263,14 +263,14 @@
       "picks": [
         {
           "horse": "Browney Bank",
-          "odds": "15/2",
+          "odds": "",
           "trainer": "Mrs A Hamilton",
           "wins": 2,
           "runs": 4,
           "sr": 50.0,
           "res": "",
           "pos": null,
-          "stake": 0.12
+          "stake": null
         }
       ]
     },
