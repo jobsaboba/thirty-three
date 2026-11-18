@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-18T05:27:31+00:00",
+  "generated": "2026-11-18T06:03:27+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -8,6 +8,62 @@
     "wins_min": 2,
     "days": 14
   },
+  "hot_trainers": [
+    {
+      "trainer": "Harry Charlton",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "Gillian Scott",
+      "wins": 2,
+      "runs": 3,
+      "sr": 67.0
+    },
+    {
+      "trainer": "Ann Hamilton",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "William Haggas",
+      "wins": 4,
+      "runs": 9,
+      "sr": 44.0
+    },
+    {
+      "trainer": "Emmet Mullins",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Edward F Power",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "David Killahena & Graeme McPherson",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Sandy Thomson",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Max Comley",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.0
+    }
+  ],
   "counts": {
     "races": 6,
     "picks": 6,
