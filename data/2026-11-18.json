@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T06:45:46+00:00",
+  "generated": "2026-11-18T13:01:17+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -140,7 +140,7 @@
     "races": 15,
     "picks": 22,
     "trainers": 12,
-    "staked": 2.4,
+    "staked": 2.64,
     "pending": 20
   },
   "races": [
@@ -156,8 +156,8 @@
           "wins": 4,
           "runs": 11,
           "sr": 36.4,
-          "res": "",
-          "pos": 0,
+          "res": "PLACE",
+          "pos": 2,
           "stake": 0.12
         },
         {
@@ -167,8 +167,8 @@
           "wins": 7,
           "runs": 21,
           "sr": 33.3,
-          "res": "",
-          "pos": 0,
+          "res": "WIN",
+          "pos": 1,
           "stake": 0.12
         }
       ]
@@ -180,7 +180,7 @@
       "picks": [
         {
           "horse": "Julius Des Pictons",
-          "odds": "47/25",
+          "odds": "6/5",
           "trainer": "Jamie Snowden",
           "wins": 7,
           "runs": 21,
@@ -194,7 +194,7 @@
     {
       "time": "13:18",
       "meeting": "Ffos Las",
-      "n": 9,
+      "n": 7,
       "picks": [
         {
           "horse": "Walk The Hall",
@@ -234,25 +234,25 @@
       "picks": [
         {
           "horse": "Clodders Dream",
-          "odds": "",
+          "odds": "40/1",
           "trainer": "M Comley",
           "wins": 3,
           "runs": 8,
           "sr": 37.5,
           "res": "",
           "pos": null,
-          "stake": null
+          "stake": 0.12
         },
         {
           "horse": "Rob Roy Macgregor",
-          "odds": "",
+          "odds": "8/1",
           "trainer": "A M Thomson",
           "wins": 4,
           "runs": 11,
           "sr": 36.4,
           "res": "",
           "pos": null,
-          "stake": null
+          "stake": 0.12
         }
       ]
     },
@@ -263,7 +263,7 @@
       "picks": [
         {
           "horse": "Browney Bank",
-          "odds": "10/3",
+          "odds": "9/2",
           "trainer": "Mrs A Hamilton",
           "wins": 2,
           "runs": 4,
@@ -277,7 +277,7 @@
     {
       "time": "16:25",
       "meeting": "Kempton",
-      "n": 12,
+      "n": 11,
       "picks": [
         {
           "horse": "Manssoor",
@@ -295,7 +295,7 @@
     {
       "time": "16:30",
       "meeting": "Dundalk",
-      "n": 15,
+      "n": 14,
       "picks": [
         {
           "horse": "Golddream",
@@ -346,7 +346,7 @@
       "picks": [
         {
           "horse": "Conciliate",
-          "odds": "11/4",
+          "odds": "4/1",
           "trainer": "John Butler",
           "wins": 2,
           "runs": 6,
@@ -451,7 +451,7 @@
       "picks": [
         {
           "horse": "Zachary Hickes",
-          "odds": "11/10",
+          "odds": "6/5",
           "trainer": "Roger Varian",
           "wins": 2,
           "runs": 6,
@@ -494,8 +494,8 @@
   ],
   "bank": {
     "open": 12.45,
-    "now": 12.45,
-    "pl": 0.0,
+    "now": 12.49,
+    "pl": 0.04,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
