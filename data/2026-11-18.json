@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T06:30:57+00:00",
+  "generated": "2026-11-18T06:45:46+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -137,11 +137,11 @@
     }
   ],
   "counts": {
-    "races": 16,
-    "picks": 23,
-    "trainers": 13,
-    "staked": 2.76,
-    "pending": 23
+    "races": 15,
+    "picks": 22,
+    "trainers": 12,
+    "staked": 2.4,
+    "pending": 20
   },
   "races": [
     {
@@ -234,25 +234,25 @@
       "picks": [
         {
           "horse": "Clodders Dream",
-          "odds": "28/1",
+          "odds": "",
           "trainer": "M Comley",
           "wins": 3,
           "runs": 8,
           "sr": 37.5,
           "res": "",
           "pos": null,
-          "stake": 0.12
+          "stake": null
         },
         {
           "horse": "Rob Roy Macgregor",
-          "odds": "7/1",
+          "odds": "",
           "trainer": "A M Thomson",
           "wins": 4,
           "runs": 11,
           "sr": 36.4,
           "res": "",
           "pos": null,
-          "stake": 0.12
+          "stake": null
         }
       ]
     },
@@ -333,24 +333,6 @@
           "wins": 3,
           "runs": 9,
           "sr": 33.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.12
-        }
-      ]
-    },
-    {
-      "time": "17:07",
-      "meeting": "Dundalk",
-      "n": 9,
-      "picks": [
-        {
-          "horse": "Kimy",
-          "odds": "4/1",
-          "trainer": "E Mullins",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
           "res": "",
           "pos": 0,
           "stake": 0.12
