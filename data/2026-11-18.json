@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T13:31:19+00:00",
+  "generated": "2026-11-18T14:01:23+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -234,7 +234,7 @@
       "picks": [
         {
           "horse": "Clodders Dream",
-          "odds": "40/1",
+          "odds": "66/1",
           "trainer": "M Comley",
           "wins": 3,
           "runs": 8,
