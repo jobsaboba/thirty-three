@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T20:30:59+00:00",
+  "generated": "2026-11-18T05:27:31+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -12,7 +12,7 @@
     "races": 6,
     "picks": 6,
     "trainers": 5,
-    "staked": 0.5,
+    "staked": 0.6,
     "pending": 0
   },
   "races": [
@@ -113,22 +113,22 @@
       "picks": [
         {
           "horse": "Miss Deeds",
-          "odds": "",
+          "odds": "8/1",
           "trainer": "William Haggas",
           "wins": 4,
           "runs": 9,
           "sr": 44.0,
-          "res": "",
-          "pos": null,
-          "stake": null
+          "res": "PLACE",
+          "pos": 2,
+          "stake": 0.1
         }
       ]
     }
   ],
   "bank": {
     "open": 10.0,
-    "now": 12.55,
-    "pl": 2.55,
+    "now": 12.45,
+    "pl": 2.45,
     "start": "2026-11-17",
     "start_amt": 10.0
   }

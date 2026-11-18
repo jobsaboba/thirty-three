@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-18",
+  "generated": "2026-11-18T05:27:32+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14
+  },
+  "counts": {
+    "races": 10,
+    "picks": 12,
+    "trainers": 6,
+    "staked": 1.44,
+    "pending": 12
+  },
+  "races": [
+    {
+      "time": "14:18",
+      "meeting": "Ffos Las",
+      "n": 15,
+      "picks": [
+        {
+          "horse": "Wannabe",
+          "odds": "4/1",
+          "trainer": "Tom Lacey",
+          "wins": 5,
+          "runs": 11,
+          "sr": 45.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Kempton",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Manssoor",
+          "odds": "16/1",
+          "trainer": "John Butler",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Dundalk",
+      "n": 15,
+      "picks": [
+        {
+          "horse": "Golddream",
+          "odds": "11/2",
+          "trainer": "David Marnane",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Kempton",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Amandari",
+          "odds": "3/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Kempton",
+      "n": 5,
+      "picks": [
+        {
+          "horse": "Conciliate",
+          "odds": "11/4",
+          "trainer": "John Butler",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": null,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "You're Sensational",
+          "odds": "5/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        },
+        {
+          "horse": "Divine Rhythm",
+          "odds": "7/2",
+          "trainer": "William Haggas",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Kempton",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Lady Margo",
+          "odds": "6/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Wise Prince",
+          "odds": "12/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        },
+        {
+          "horse": "Princling",
+          "odds": "8/1",
+          "trainer": "William Haggas",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "n": 7,
+      "picks": [
+        {
+          "horse": "Zachary Hickes",
+          "odds": "11/10",
+          "trainer": "Roger Varian",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": null,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Kempton",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Crown Of Crowns",
+          "odds": "3/1",
+          "trainer": "William Haggas",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 12.45,
+    "now": 12.45,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
