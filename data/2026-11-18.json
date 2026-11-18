@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T06:04:10+00:00",
+  "generated": "2026-11-18T06:30:57+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -46,13 +46,13 @@
       "sr": 33.0
     },
     {
-      "trainer": "E Doyle",
+      "trainer": "Harry Charlton",
       "wins": 2,
-      "runs": 3,
-      "sr": 66.7
+      "runs": 2,
+      "sr": 100.0
     },
     {
-      "trainer": "P Phelan",
+      "trainer": "G Scott",
       "wins": 2,
       "runs": 3,
       "sr": 66.7
@@ -64,19 +64,31 @@
       "sr": 60.0
     },
     {
-      "trainer": "G Scott",
-      "wins": 2,
-      "runs": 4,
-      "sr": 50.0
-    },
-    {
       "trainer": "C Appleby",
+      "wins": 4,
+      "runs": 7,
+      "sr": 57.1
+    },
+    {
+      "trainer": "Mrs A Hamilton",
       "wins": 2,
       "runs": 4,
       "sr": 50.0
     },
     {
-      "trainer": "Mrs J Williams",
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "P Phelan",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "Edward F Power",
       "wins": 2,
       "runs": 4,
       "sr": 50.0
@@ -88,30 +100,48 @@
       "sr": 50.0
     },
     {
+      "trainer": "E Mullins",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Owen Burrows",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "M Comley",
+      "wins": 3,
+      "runs": 8,
+      "sr": 37.5
+    },
+    {
       "trainer": "A M Thomson",
-      "wins": 2,
-      "runs": 5,
-      "sr": 40.0
+      "wins": 4,
+      "runs": 11,
+      "sr": 36.4
     },
     {
-      "trainer": "J Barcoe",
+      "trainer": "R A Teal",
       "wins": 2,
-      "runs": 5,
-      "sr": 40.0
+      "runs": 6,
+      "sr": 33.3
     },
     {
-      "trainer": "Max Comley",
-      "wins": 1,
-      "runs": 3,
+      "trainer": "Jamie Snowden",
+      "wins": 7,
+      "runs": 21,
       "sr": 33.3
     }
   ],
   "counts": {
-    "races": 14,
-    "picks": 19,
-    "trainers": 10,
-    "staked": 2.28,
-    "pending": 19
+    "races": 16,
+    "picks": 23,
+    "trainers": 13,
+    "staked": 2.76,
+    "pending": 23
   },
   "races": [
     {
@@ -123,11 +153,40 @@
           "horse": "Eagle Warrior",
           "odds": "7/4",
           "trainer": "A M Thomson",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
+          "wins": 4,
+          "runs": 11,
+          "sr": 36.4,
           "res": "",
           "pos": 0,
+          "stake": 0.12
+        },
+        {
+          "horse": "Lord Du Gouet",
+          "odds": "11/8",
+          "trainer": "Jamie Snowden",
+          "wins": 7,
+          "runs": 21,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "13:03",
+      "meeting": "Hexham",
+      "n": 4,
+      "picks": [
+        {
+          "horse": "Julius Des Pictons",
+          "odds": "47/25",
+          "trainer": "Jamie Snowden",
+          "wins": 7,
+          "runs": 21,
+          "sr": 33.3,
+          "res": "",
+          "pos": null,
           "stake": 0.12
         }
       ]
@@ -140,10 +199,10 @@
         {
           "horse": "Walk The Hall",
           "odds": "66/1",
-          "trainer": "Max Comley",
-          "wins": 1,
-          "runs": 3,
-          "sr": 33.3,
+          "trainer": "M Comley",
+          "wins": 3,
+          "runs": 8,
+          "sr": 37.5,
           "res": "",
           "pos": 0,
           "stake": 0.12
@@ -174,23 +233,23 @@
       "n": 7,
       "picks": [
         {
-          "horse": "Rob Roy Macgregor",
-          "odds": "7/1",
-          "trainer": "A M Thomson",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
+          "horse": "Clodders Dream",
+          "odds": "28/1",
+          "trainer": "M Comley",
+          "wins": 3,
+          "runs": 8,
+          "sr": 37.5,
           "res": "",
           "pos": null,
           "stake": 0.12
         },
         {
-          "horse": "Clodders Dream",
-          "odds": "28/1",
-          "trainer": "Max Comley",
-          "wins": 1,
-          "runs": 3,
-          "sr": 33.3,
+          "horse": "Rob Roy Macgregor",
+          "odds": "7/1",
+          "trainer": "A M Thomson",
+          "wins": 4,
+          "runs": 11,
+          "sr": 36.4,
           "res": "",
           "pos": null,
           "stake": 0.12
@@ -198,19 +257,19 @@
       ]
     },
     {
-      "time": "15:18",
-      "meeting": "Ffos Las",
-      "n": 11,
+      "time": "15:38",
+      "meeting": "Hexham",
+      "n": 7,
       "picks": [
         {
-          "horse": "No Boundaries",
-          "odds": "5/1",
-          "trainer": "Mrs J Williams",
+          "horse": "Browney Bank",
+          "odds": "10/3",
+          "trainer": "Mrs A Hamilton",
           "wins": 2,
           "runs": 4,
           "sr": 50.0,
           "res": "",
-          "pos": 0,
+          "pos": null,
           "stake": 0.12
         }
       ]
@@ -257,12 +316,41 @@
       "n": 12,
       "picks": [
         {
+          "horse": "At My Expense",
+          "odds": "66/1",
+          "trainer": "R A Teal",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        },
+        {
           "horse": "Amandari",
           "odds": "3/1",
           "trainer": "John & Thady Gosden",
           "wins": 3,
           "runs": 9,
           "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "17:07",
+      "meeting": "Dundalk",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Kimy",
+          "odds": "4/1",
+          "trainer": "E Mullins",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
           "res": "",
           "pos": 0,
           "stake": 0.12
@@ -343,9 +431,9 @@
           "horse": "Palladas",
           "odds": "9/2",
           "trainer": "C Appleby",
-          "wins": 2,
-          "runs": 4,
-          "sr": 50.0,
+          "wins": 4,
+          "runs": 7,
+          "sr": 57.1,
           "res": "",
           "pos": 0,
           "stake": 0.12
@@ -400,10 +488,10 @@
         {
           "horse": "Snooker McCrew",
           "odds": "6/1",
-          "trainer": "Max Comley",
-          "wins": 1,
-          "runs": 3,
-          "sr": 33.3,
+          "trainer": "M Comley",
+          "wins": 3,
+          "runs": 8,
+          "sr": 37.5,
           "res": "",
           "pos": 0,
           "stake": 0.12
