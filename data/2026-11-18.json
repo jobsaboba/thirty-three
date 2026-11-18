@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T16:01:39+00:00",
+  "generated": "2026-11-18T16:31:18+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -137,11 +137,11 @@
     }
   ],
   "counts": {
-    "races": 15,
-    "picks": 22,
+    "races": 14,
+    "picks": 21,
     "trainers": 12,
-    "staked": 2.16,
-    "pending": 14
+    "staked": 2.04,
+    "pending": 13
   },
   "races": [
     {
@@ -271,24 +271,6 @@
           "res": "",
           "pos": null,
           "stake": null
-        }
-      ]
-    },
-    {
-      "time": "16:25",
-      "meeting": "Kempton",
-      "n": 11,
-      "picks": [
-        {
-          "horse": "Manssoor",
-          "odds": "16/1",
-          "trainer": "John Butler",
-          "wins": 2,
-          "runs": 6,
-          "sr": 33.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.12
         }
       ]
     },
