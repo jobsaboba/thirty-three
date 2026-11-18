@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T06:03:29+00:00",
+  "generated": "2026-11-18T06:04:10+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -100,7 +100,7 @@
       "sr": 40.0
     },
     {
-      "trainer": "max comley",
+      "trainer": "Max Comley",
       "wins": 1,
       "runs": 3,
       "sr": 33.3
@@ -140,7 +140,7 @@
         {
           "horse": "Walk The Hall",
           "odds": "66/1",
-          "trainer": "max comley",
+          "trainer": "Max Comley",
           "wins": 1,
           "runs": 3,
           "sr": 33.3,
@@ -187,7 +187,7 @@
         {
           "horse": "Clodders Dream",
           "odds": "28/1",
-          "trainer": "max comley",
+          "trainer": "Max Comley",
           "wins": 1,
           "runs": 3,
           "sr": 33.3,
@@ -400,7 +400,7 @@
         {
           "horse": "Snooker McCrew",
           "odds": "6/1",
-          "trainer": "max comley",
+          "trainer": "Max Comley",
           "wins": 1,
           "runs": 3,
           "sr": 33.3,
