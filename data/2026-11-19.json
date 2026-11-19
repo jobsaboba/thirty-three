@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated": "2026-11-19T15:01:10+00:00",
+  "generated": "2026-11-19T15:31:08+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -121,10 +121,10 @@
   ],
   "counts": {
     "races": 9,
-    "picks": 18,
+    "picks": 17,
     "trainers": 9,
-    "staked": 2.52,
-    "pending": 7
+    "staked": 2.38,
+    "pending": 5
   },
   "races": [
     {
@@ -281,19 +281,8 @@
           "wins": 2,
           "runs": 5,
           "sr": 40.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.14
-        },
-        {
-          "horse": "Hob's Angel",
-          "odds": "14/1",
-          "trainer": "James M Barcoe",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 12,
           "stake": 0.14
         }
       ]
@@ -391,8 +380,8 @@
   ],
   "bank": {
     "open": 14.03,
-    "now": 13.33,
-    "pl": -0.7,
+    "now": 13.19,
+    "pl": -0.84,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
