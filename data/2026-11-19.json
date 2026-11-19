@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated": "2026-11-19T16:01:10+00:00",
+  "generated": "2026-11-19T16:31:04+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -124,7 +124,7 @@
     "picks": 17,
     "trainers": 9,
     "staked": 2.38,
-    "pending": 4
+    "pending": 3
   },
   "races": [
     {
@@ -308,7 +308,7 @@
     {
       "time": "16:10",
       "meeting": "Newcastle",
-      "n": 13,
+      "n": 11,
       "picks": [
         {
           "horse": "El Ra'ady",
@@ -317,8 +317,8 @@
           "wins": 2,
           "runs": 6,
           "sr": 33.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 6,
           "stake": 0.14
         }
       ]
@@ -380,8 +380,8 @@
   ],
   "bank": {
     "open": 14.03,
-    "now": 13.05,
-    "pl": -0.98,
+    "now": 12.91,
+    "pl": -1.12,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
