@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated": "2026-11-19T17:01:19+00:00",
+  "generated": "2026-11-19T17:31:00+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -308,7 +308,7 @@
     {
       "time": "16:10",
       "meeting": "Newcastle",
-      "n": 13,
+      "n": 11,
       "picks": [
         {
           "horse": "El Ra'ady",
