@@ -1,0 +1,399 @@
+{
+  "date": "2026-11-19",
+  "generated": "2026-11-19T06:07:10+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "David Marnane",
+      "wins": 3,
+      "runs": 6,
+      "sr": 50.0
+    },
+    {
+      "trainer": "Tom Lacey",
+      "wins": 5,
+      "runs": 12,
+      "sr": 42.0
+    },
+    {
+      "trainer": "Rebecca Curtis",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Ben Haslam",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "James M Barcoe",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "John & Thady Gosden",
+      "wins": 4,
+      "runs": 10,
+      "sr": 40.0
+    },
+    {
+      "trainer": "William Haggas",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Roger Varian",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Jamie Snowden",
+      "wins": 8,
+      "runs": 24,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Harry Charlton",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "G Scott",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "Peter Fahey",
+      "wins": 3,
+      "runs": 5,
+      "sr": 60.0
+    },
+    {
+      "trainer": "Mrs A Hamilton",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "George Baker",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "P Phelan",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "Edward F Power",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "C Appleby",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    }
+  ],
+  "counts": {
+    "races": 9,
+    "picks": 18,
+    "trainers": 9,
+    "staked": 2.52,
+    "pending": 18
+  },
+  "races": [
+    {
+      "time": "13:37",
+      "meeting": "Warwick",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Nocte Volatus",
+          "odds": "11/2",
+          "trainer": "Tom Lacey",
+          "wins": 5,
+          "runs": 12,
+          "sr": 42.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Pounding Poet",
+          "odds": "6/1",
+          "trainer": "Tom Lacey",
+          "wins": 5,
+          "runs": 12,
+          "sr": 42.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "The Boola Boss",
+          "odds": "4/1",
+          "trainer": "Rebecca Curtis",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Git Maker",
+          "odds": "5/1",
+          "trainer": "Jamie Snowden",
+          "wins": 8,
+          "runs": 24,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "14:03",
+      "meeting": "Lingfield",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Morrophore",
+          "odds": "11/4",
+          "trainer": "John & Thady Gosden",
+          "wins": 4,
+          "runs": 10,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Light Of Paris",
+          "odds": "16/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 4,
+          "runs": 10,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Yamnah",
+          "odds": "8/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 4,
+          "runs": 10,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Little Dorrit",
+          "odds": "5/1",
+          "trainer": "Roger Varian",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Pierian",
+          "odds": "6/1",
+          "trainer": "William Haggas",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "14:38",
+      "meeting": "Lingfield",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Aviatrice",
+          "odds": "20/1",
+          "trainer": "David Marnane",
+          "wins": 3,
+          "runs": 6,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Nandita",
+          "odds": "20/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 4,
+          "runs": 10,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Thurles",
+      "n": 17,
+      "picks": [
+        {
+          "horse": "Amron Diamond",
+          "odds": "25/1",
+          "trainer": "James M Barcoe",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Hob's Angel",
+          "odds": "14/1",
+          "trainer": "James M Barcoe",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Newcastle",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Water To Wine",
+          "odds": "2/1",
+          "trainer": "John & Thady Gosden",
+          "wins": 4,
+          "runs": 10,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Newcastle",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "El Ra'ady",
+          "odds": "5/2",
+          "trainer": "William Haggas",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "16:40",
+      "meeting": "Newcastle",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Yorkshire Dream",
+          "odds": "8/1",
+          "trainer": "Ben Haslam",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "18:10",
+      "meeting": "Newcastle",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Luminare",
+          "odds": "7/1",
+          "trainer": "William Haggas",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "19:10",
+      "meeting": "Newcastle",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Liquid Cooled",
+          "odds": "12/1",
+          "trainer": "Ben Haslam",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 14.03,
+    "now": 14.03,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
