@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generated": "2026-11-20T13:31:16+00:00",
+  "generated": "2026-11-20T15:01:21+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -96,11 +96,11 @@
     }
   ],
   "counts": {
-    "races": 8,
-    "picks": 10,
+    "races": 7,
+    "picks": 8,
     "trainers": 3,
-    "staked": 1.4,
-    "pending": 6
+    "staked": 1.12,
+    "pending": 4
   },
   "races": [
     {
@@ -176,27 +176,9 @@
       ]
     },
     {
-      "time": "14:42",
-      "meeting": "Chepstow",
-      "n": 10,
-      "picks": [
-        {
-          "horse": "Bouquet De Paris",
-          "odds": "12/1",
-          "trainer": "Rebecca Curtis",
-          "wins": 2,
-          "runs": 6,
-          "sr": 33.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.14
-        }
-      ]
-    },
-    {
       "time": "15:17",
       "meeting": "Chepstow",
-      "n": 11,
+      "n": 10,
       "picks": [
         {
           "horse": "Noble Calling",
@@ -215,17 +197,6 @@
           "trainer": "David Killahena & Graeme McPherson",
           "wins": 3,
           "runs": 9,
-          "sr": 33.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.14
-        },
-        {
-          "horse": "Top Magneto",
-          "odds": "6/1",
-          "trainer": "Rebecca Curtis",
-          "wins": 2,
-          "runs": 6,
           "sr": 33.0,
           "res": "",
           "pos": 0,
