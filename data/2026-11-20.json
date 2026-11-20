@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-20",
+  "generated": "2026-11-20T06:07:12+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "David Marnane",
+      "wins": 3,
+      "runs": 7,
+      "sr": 43.0
+    },
+    {
+      "trainer": "David Killahena & Graeme McPherson",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Rebecca Curtis",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Mrs A Hamilton",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "G Scott",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "Peter Fahey",
+      "wins": 3,
+      "runs": 5,
+      "sr": 60.0
+    },
+    {
+      "trainer": "P Phelan",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "R Varian",
+      "wins": 3,
+      "runs": 7,
+      "sr": 42.9
+    },
+    {
+      "trainer": "K P De Foy",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "J Barcoe",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "C Appleby",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "W Greatrex",
+      "wins": 5,
+      "runs": 13,
+      "sr": 38.5
+    },
+    {
+      "trainer": "B Haslam",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    }
+  ],
+  "counts": {
+    "races": 8,
+    "picks": 10,
+    "trainers": 3,
+    "staked": 1.4,
+    "pending": 10
+  },
+  "races": [
+    {
+      "time": "11:20",
+      "meeting": "Chepstow",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Bande Organisee",
+          "odds": "4/1",
+          "trainer": "Rebecca Curtis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "11:50",
+      "meeting": "Chepstow",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Common Sense",
+          "odds": "4/1",
+          "trainer": "Rebecca Curtis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "12:22",
+      "meeting": "Chepstow",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Berkshire Woody",
+          "odds": "25/1",
+          "trainer": "Rebecca Curtis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "12:57",
+      "meeting": "Chepstow",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Ben Solo",
+          "odds": "8/1",
+          "trainer": "Rebecca Curtis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "14:42",
+      "meeting": "Chepstow",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Bouquet De Paris",
+          "odds": "12/1",
+          "trainer": "Rebecca Curtis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "15:17",
+      "meeting": "Chepstow",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Noble Calling",
+          "odds": "14/1",
+          "trainer": "David Killahena & Graeme McPherson",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Cappanapeasta",
+          "odds": "20/1",
+          "trainer": "David Killahena & Graeme McPherson",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        },
+        {
+          "horse": "Top Magneto",
+          "odds": "6/1",
+          "trainer": "Rebecca Curtis",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Dundalk",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Arryaaf",
+          "odds": "16/1",
+          "trainer": "David Marnane",
+          "wins": 3,
+          "runs": 7,
+          "sr": 43.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Theboysbirthday",
+          "odds": "20/1",
+          "trainer": "David Marnane",
+          "wins": 3,
+          "runs": 7,
+          "sr": 43.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.14
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 14.31,
+    "now": 14.31,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
