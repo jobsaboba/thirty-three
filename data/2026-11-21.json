@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generated": "2026-11-21T06:07:12+00:00",
+  "generated": "2026-11-21T13:02:47+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -100,7 +100,7 @@
     "picks": 9,
     "trainers": 6,
     "staked": 1.17,
-    "pending": 9
+    "pending": 5
   },
   "races": [
     {
@@ -115,8 +115,8 @@
           "wins": 2,
           "runs": 5,
           "sr": 40.0,
-          "res": "",
-          "pos": 0,
+          "res": "PLACE",
+          "pos": 2,
           "stake": 0.13
         }
       ]
@@ -133,8 +133,8 @@
           "wins": 2,
           "runs": 3,
           "sr": 66.7,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 9,
           "stake": 0.13
         }
       ]
@@ -142,7 +142,7 @@
     {
       "time": "12:28",
       "meeting": "Punchestown",
-      "n": 21,
+      "n": 18,
       "picks": [
         {
           "horse": "Avalo",
@@ -151,8 +151,8 @@
           "wins": 3,
           "runs": 5,
           "sr": 60.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 6,
           "stake": 0.13
         }
       ]
@@ -169,8 +169,8 @@
           "wins": 2,
           "runs": 3,
           "sr": 66.7,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 5,
           "stake": 0.13
         }
       ]
@@ -178,7 +178,7 @@
     {
       "time": "14:05",
       "meeting": "Ascot",
-      "n": 9,
+      "n": 8,
       "picks": [
         {
           "horse": "Easy Love",
@@ -196,7 +196,7 @@
     {
       "time": "15:23",
       "meeting": "Punchestown",
-      "n": 19,
+      "n": 18,
       "picks": [
         {
           "horse": "Tangara Bay",
@@ -261,8 +261,8 @@
   ],
   "bank": {
     "open": 13.19,
-    "now": 13.19,
-    "pl": 0.0,
+    "now": 12.67,
+    "pl": -0.52,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
