@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T15:31:37+00:00",
+  "generated": "2026-11-22T16:01:56+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -90,11 +90,11 @@
     }
   ],
   "counts": {
-    "races": 8,
-    "picks": 9,
+    "races": 7,
+    "picks": 8,
     "trainers": 6,
-    "staked": 1.08,
-    "pending": 2
+    "staked": 0.96,
+    "pending": 0
   },
   "races": [
     {
@@ -228,26 +228,8 @@
           "wins": 6,
           "runs": 17,
           "sr": 35.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.12
-        }
-      ]
-    },
-    {
-      "time": "15:49",
-      "meeting": "Cork",
-      "n": 16,
-      "picks": [
-        {
-          "horse": "King Of The Greys",
-          "odds": "9/2",
-          "trainer": "Peter Fahey",
-          "wins": 3,
-          "runs": 7,
-          "sr": 43.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 5,
           "stake": 0.12
         }
       ]
@@ -255,8 +237,8 @@
   ],
   "bank": {
     "open": 12.02,
-    "now": 11.54,
-    "pl": -0.48,
+    "now": 11.42,
+    "pl": -0.6,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
