@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-22",
+  "generated": "2026-11-22T06:07:14+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "Roger Varian",
+      "wins": 4,
+      "runs": 6,
+      "sr": 67.0
+    },
+    {
+      "trainer": "Pat Phelan",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "Peter Fahey",
+      "wins": 3,
+      "runs": 7,
+      "sr": 43.0
+    },
+    {
+      "trainer": "James M Barcoe",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Warren Greatrex",
+      "wins": 6,
+      "runs": 17,
+      "sr": 35.0
+    },
+    {
+      "trainer": "George Boughey",
+      "wins": 5,
+      "runs": 15,
+      "sr": 33.0
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "C Appleby",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "K P De Foy",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "C Gordon",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "A M Thomson",
+      "wins": 3,
+      "runs": 8,
+      "sr": 37.5
+    },
+    {
+      "trainer": "D Killahena G Mcpherson",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Robson Aguiar",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    }
+  ],
+  "counts": {
+    "races": 9,
+    "picks": 10,
+    "trainers": 7,
+    "staked": 1.2,
+    "pending": 10
+  },
+  "races": [
+    {
+      "time": "11:55",
+      "meeting": "Lingfield",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Arkat",
+          "odds": "3/1",
+          "trainer": "Roger Varian",
+          "wins": 4,
+          "runs": 6,
+          "sr": 67.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        },
+        {
+          "horse": "Rey De Vega",
+          "odds": "6/1",
+          "trainer": "George Boughey",
+          "wins": 5,
+          "runs": 15,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "12:30",
+      "meeting": "Punchestown",
+      "n": 16,
+      "picks": [
+        {
+          "horse": "Beechwood Road",
+          "odds": "33/1",
+          "trainer": "Peter Fahey",
+          "wins": 3,
+          "runs": 7,
+          "sr": 43.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "12:55",
+      "meeting": "Lingfield",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Olympic Charter",
+          "odds": "2/1",
+          "trainer": "C Appleby",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "13:25",
+      "meeting": "Lingfield",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Gilet",
+          "odds": "10/1",
+          "trainer": "Warren Greatrex",
+          "wins": 6,
+          "runs": 17,
+          "sr": 35.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "14:37",
+      "meeting": "Exeter",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "He Knows Better",
+          "odds": "5/1",
+          "trainer": "Warren Greatrex",
+          "wins": 6,
+          "runs": 17,
+          "sr": 35.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Lingfield",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Boston Run",
+          "odds": "10/1",
+          "trainer": "Pat Phelan",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "15:19",
+      "meeting": "Cork",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Theanniversary Man",
+          "odds": "3/1",
+          "trainer": "James M Barcoe",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Lingfield",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Noble Grace",
+          "odds": "9/2",
+          "trainer": "Warren Greatrex",
+          "wins": 6,
+          "runs": 17,
+          "sr": 35.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "15:49",
+      "meeting": "Cork",
+      "n": 19,
+      "picks": [
+        {
+          "horse": "King Of The Greys",
+          "odds": "9/2",
+          "trainer": "Peter Fahey",
+          "wins": 3,
+          "runs": 7,
+          "sr": 43.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 12.02,
+    "now": 12.02,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
