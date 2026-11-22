@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T06:07:14+00:00",
+  "generated": "2026-11-22T13:01:43+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -90,11 +90,11 @@
     }
   ],
   "counts": {
-    "races": 9,
-    "picks": 10,
-    "trainers": 7,
-    "staked": 1.2,
-    "pending": 10
+    "races": 8,
+    "picks": 9,
+    "trainers": 6,
+    "staked": 1.08,
+    "pending": 6
   },
   "races": [
     {
@@ -109,8 +109,8 @@
           "wins": 4,
           "runs": 6,
           "sr": 67.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 4,
           "stake": 0.12
         },
         {
@@ -120,8 +120,8 @@
           "wins": 5,
           "runs": 15,
           "sr": 33.0,
-          "res": "",
-          "pos": 0,
+          "res": "PLACE",
+          "pos": 2,
           "stake": 0.12
         }
       ]
@@ -129,7 +129,7 @@
     {
       "time": "12:30",
       "meeting": "Punchestown",
-      "n": 16,
+      "n": 15,
       "picks": [
         {
           "horse": "Beechwood Road",
@@ -138,8 +138,8 @@
           "wins": 3,
           "runs": 7,
           "sr": 43.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 7,
           "stake": 0.12
         }
       ]
@@ -165,7 +165,7 @@
     {
       "time": "13:25",
       "meeting": "Lingfield",
-      "n": 9,
+      "n": 8,
       "picks": [
         {
           "horse": "Gilet",
@@ -192,24 +192,6 @@
           "wins": 6,
           "runs": 17,
           "sr": 35.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.12
-        }
-      ]
-    },
-    {
-      "time": "14:55",
-      "meeting": "Lingfield",
-      "n": 13,
-      "picks": [
-        {
-          "horse": "Boston Run",
-          "odds": "10/1",
-          "trainer": "Pat Phelan",
-          "wins": 2,
-          "runs": 4,
-          "sr": 50.0,
           "res": "",
           "pos": 0,
           "stake": 0.12
@@ -255,7 +237,7 @@
     {
       "time": "15:49",
       "meeting": "Cork",
-      "n": 19,
+      "n": 16,
       "picks": [
         {
           "horse": "King Of The Greys",
@@ -273,8 +255,8 @@
   ],
   "bank": {
     "open": 12.02,
-    "now": 12.02,
-    "pl": 0.0,
+    "now": 11.66,
+    "pl": -0.36,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
