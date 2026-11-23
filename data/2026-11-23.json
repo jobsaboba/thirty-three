@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated": "2026-11-23T06:07:11+00:00",
+  "generated": "2026-11-23T13:01:38+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -124,7 +124,7 @@
     {
       "time": "13:15",
       "meeting": "Huntingdon",
-      "n": 12,
+      "n": 11,
       "picks": [
         {
           "horse": "Dotties Star",
@@ -142,7 +142,7 @@
     {
       "time": "15:23",
       "meeting": "Huntingdon",
-      "n": 11,
+      "n": 10,
       "picks": [
         {
           "horse": "Fidendum",
@@ -214,7 +214,7 @@
     {
       "time": "18:30",
       "meeting": "Wolverhampton",
-      "n": 12,
+      "n": 11,
       "picks": [
         {
           "horse": "Dance Time",
@@ -232,7 +232,7 @@
     {
       "time": "19:30",
       "meeting": "Wolverhampton",
-      "n": 12,
+      "n": 11,
       "picks": [
         {
           "horse": "Jamie Sommers",
@@ -250,7 +250,7 @@
     {
       "time": "20:00",
       "meeting": "Wolverhampton",
-      "n": 11,
+      "n": 10,
       "picks": [
         {
           "horse": "Monarch's Gold",
