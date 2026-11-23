@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated": "2026-11-23T18:01:41+00:00",
+  "generated": "2026-11-23T18:31:48+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -118,7 +118,7 @@
     "picks": 9,
     "trainers": 6,
     "staked": 0.99,
-    "pending": 5
+    "pending": 4
   },
   "races": [
     {
@@ -196,7 +196,7 @@
     {
       "time": "18:15",
       "meeting": "Newcastle",
-      "n": 9,
+      "n": 8,
       "picks": [
         {
           "horse": "Come On Eibhlin",
@@ -205,8 +205,8 @@
           "wins": 3,
           "runs": 8,
           "sr": 38.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 8,
           "stake": 0.11
         }
       ]
@@ -279,8 +279,8 @@
   ],
   "bank": {
     "open": 11.02,
-    "now": 11.29,
-    "pl": 0.28,
+    "now": 11.18,
+    "pl": 0.17,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
