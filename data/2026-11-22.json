@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T16:31:33+00:00",
+  "generated": "2026-11-23T14:15:19+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -254,8 +254,8 @@
     }
   ],
   "bank": {
-    "open": 12.02,
-    "now": 11.3,
+    "open": 11.74,
+    "now": 11.02,
     "pl": -0.72,
     "start": "2026-11-17",
     "start_amt": 10.0
