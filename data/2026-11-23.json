@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-23",
+  "generated": "2026-11-23T06:07:11+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "Roger Varian",
+      "wins": 4,
+      "runs": 7,
+      "sr": 57.0
+    },
+    {
+      "trainer": "Pat Phelan",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "David Loughnane",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Jane Williams",
+      "wins": 3,
+      "runs": 8,
+      "sr": 38.0
+    },
+    {
+      "trainer": "Ben Haslam",
+      "wins": 3,
+      "runs": 8,
+      "sr": 38.0
+    },
+    {
+      "trainer": "David Killahena & Graeme McPherson",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Ian Mccarthy",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "R T Phillips",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 3,
+      "sr": 66.7
+    },
+    {
+      "trainer": "C Appleby",
+      "wins": 3,
+      "runs": 5,
+      "sr": 60.0
+    },
+    {
+      "trainer": "S G Carey",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "J Barcoe",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "K P De Foy",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "C Gordon",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Peter Fahey",
+      "wins": 3,
+      "runs": 8,
+      "sr": 37.5
+    },
+    {
+      "trainer": "A M Thomson",
+      "wins": 3,
+      "runs": 8,
+      "sr": 37.5
+    },
+    {
+      "trainer": "Robson Aguiar",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    }
+  ],
+  "counts": {
+    "races": 8,
+    "picks": 9,
+    "trainers": 6,
+    "staked": 0.99,
+    "pending": 9
+  },
+  "races": [
+    {
+      "time": "13:15",
+      "meeting": "Huntingdon",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Dotties Star",
+          "odds": "8/1",
+          "trainer": "Pat Phelan",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "15:23",
+      "meeting": "Huntingdon",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Fidendum",
+          "odds": "10/1",
+          "trainer": "David Killahena & Graeme McPherson",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Newcastle",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Bintbossom",
+          "odds": "11/2",
+          "trainer": "Roger Varian",
+          "wins": 4,
+          "runs": 7,
+          "sr": 57.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Newcastle",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Jersey Maverick",
+          "odds": "16/1",
+          "trainer": "Ben Haslam",
+          "wins": 3,
+          "runs": 8,
+          "sr": 38.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "18:15",
+      "meeting": "Newcastle",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Come On Eibhlin",
+          "odds": "8/1",
+          "trainer": "Ben Haslam",
+          "wins": 3,
+          "runs": 8,
+          "sr": 38.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Dance Time",
+          "odds": "10/1",
+          "trainer": "David Loughnane",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Jamie Sommers",
+          "odds": "9/2",
+          "trainer": "David Loughnane",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Monarch's Gold",
+          "odds": "8/1",
+          "trainer": "K P De Foy",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        },
+        {
+          "horse": "Reciprocated",
+          "odds": "6/1",
+          "trainer": "David Loughnane",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.11
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 11.3,
+    "now": 11.3,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
