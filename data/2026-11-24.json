@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated": "2026-11-24T15:01:47+00:00",
+  "generated": "2026-11-24T15:33:15+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -132,11 +132,11 @@
     }
   ],
   "counts": {
-    "races": 15,
-    "picks": 18,
-    "trainers": 11,
-    "staked": 2.16,
-    "pending": 10
+    "races": 14,
+    "picks": 17,
+    "trainers": 10,
+    "staked": 2.04,
+    "pending": 8
   },
   "races": [
     {
@@ -171,24 +171,6 @@
           "sr": 67.0,
           "res": "LOSE",
           "pos": 9,
-          "stake": 0.12
-        }
-      ]
-    },
-    {
-      "time": "13:38",
-      "meeting": "Lingfield",
-      "n": 8,
-      "picks": [
-        {
-          "horse": "Trustintimes",
-          "odds": "15/2",
-          "trainer": "Harry Fry",
-          "wins": 2,
-          "runs": 4,
-          "sr": 50.0,
-          "res": "LOSE",
-          "pos": 3,
           "stake": 0.12
         }
       ]
@@ -295,8 +277,8 @@
           "wins": 2,
           "runs": 5,
           "sr": 40.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 13,
           "stake": 0.12
         },
         {
@@ -306,8 +288,8 @@
           "wins": 2,
           "runs": 5,
           "sr": 40.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 9,
           "stake": 0.12
         }
       ]
@@ -445,8 +427,8 @@
   ],
   "bank": {
     "open": 11.73,
-    "now": 10.77,
-    "pl": -0.96,
+    "now": 10.65,
+    "pl": -1.08,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
