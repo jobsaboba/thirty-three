@@ -1,0 +1,471 @@
+{
+  "date": "2026-11-24",
+  "generated": "2026-11-24T06:07:12+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "Marcus Tregoning",
+      "wins": 2,
+      "runs": 3,
+      "sr": 67.0
+    },
+    {
+      "trainer": "Richard Phillips",
+      "wins": 2,
+      "runs": 3,
+      "sr": 67.0
+    },
+    {
+      "trainer": "Charlie Appleby",
+      "wins": 3,
+      "runs": 5,
+      "sr": 60.0
+    },
+    {
+      "trainer": "Jane Chapple-Hyam",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "S G Carey",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "Harry Fry",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "Pat Phelan",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Archie Watson",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "David Loughnane",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "James M Barcoe",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Chris Gordon",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.0
+    },
+    {
+      "trainer": "Ian Mccarthy",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "R Varian",
+      "wins": 4,
+      "runs": 7,
+      "sr": 57.1
+    },
+    {
+      "trainer": "K P De Foy",
+      "wins": 3,
+      "runs": 6,
+      "sr": 50.0
+    },
+    {
+      "trainer": "A M Thomson",
+      "wins": 3,
+      "runs": 7,
+      "sr": 42.9
+    },
+    {
+      "trainer": "Peter Fahey",
+      "wins": 3,
+      "runs": 8,
+      "sr": 37.5
+    },
+    {
+      "trainer": "M Walford",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Lizzie Quinlan",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Robson Aguiar",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    }
+  ],
+  "counts": {
+    "races": 16,
+    "picks": 19,
+    "trainers": 11,
+    "staked": 2.28,
+    "pending": 19
+  },
+  "races": [
+    {
+      "time": "11:38",
+      "meeting": "Lingfield",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Neswick",
+          "odds": "7/4",
+          "trainer": "Marcus Tregoning",
+          "wins": 2,
+          "runs": 3,
+          "sr": 67.0,
+          "res": "",
+          "pos": null,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "12:38",
+      "meeting": "Lingfield",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Sand On The Run",
+          "odds": "14/1",
+          "trainer": "Jane Chapple-Hyam",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "12:56",
+      "meeting": "Southwell",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Lady Tara",
+          "odds": "14/1",
+          "trainer": "Richard Phillips",
+          "wins": 2,
+          "runs": 3,
+          "sr": 67.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "13:38",
+      "meeting": "Lingfield",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Trustintimes",
+          "odds": "15/2",
+          "trainer": "Harry Fry",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "13:45",
+      "meeting": "Tramore",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Coillte M C G",
+          "odds": "25/1",
+          "trainer": "S G Carey",
+          "wins": 2,
+          "runs": 4,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "13:56",
+      "meeting": "Southwell",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Cheap Sandwiches",
+          "odds": "10/1",
+          "trainer": "Chris Gordon",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Tramore",
+      "n": 19,
+      "picks": [
+        {
+          "horse": "Carrigeen Ardisia",
+          "odds": "50/1",
+          "trainer": "James M Barcoe",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "14:26",
+      "meeting": "Southwell",
+      "n": 15,
+      "picks": [
+        {
+          "horse": "Smile Back",
+          "odds": "16/1",
+          "trainer": "Richard Phillips",
+          "wins": 2,
+          "runs": 3,
+          "sr": 67.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "14:38",
+      "meeting": "Lingfield",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Pimentel",
+          "odds": "8/1",
+          "trainer": "Marcus Tregoning",
+          "wins": 2,
+          "runs": 3,
+          "sr": 67.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "15:08",
+      "meeting": "Lingfield",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Imelda",
+          "odds": "7/2",
+          "trainer": "David Loughnane",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        },
+        {
+          "horse": "Amber Honey",
+          "odds": "7/1",
+          "trainer": "Pat Phelan",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "15:38",
+      "meeting": "Lingfield",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Intsaar",
+          "odds": "8/1",
+          "trainer": "Archie Watson",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        },
+        {
+          "horse": "Parole Board",
+          "odds": "33/1",
+          "trainer": "Pat Phelan",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "meeting": "Tramore",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Allez Yeats",
+          "odds": "100/1",
+          "trainer": "James M Barcoe",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Goldenstateofmind",
+          "odds": "33/1",
+          "trainer": "David Loughnane",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Prosewriter",
+          "odds": "13/8",
+          "trainer": "Archie Watson",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        },
+        {
+          "horse": "Du Val",
+          "odds": "16/1",
+          "trainer": "David Loughnane",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Zajal",
+          "odds": "10/11",
+          "trainer": "Charlie Appleby",
+          "wins": 3,
+          "runs": 5,
+          "sr": 60.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Mythical Tale",
+          "odds": "5/1",
+          "trainer": "Charlie Appleby",
+          "wins": 3,
+          "runs": 5,
+          "sr": 60.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.12
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 11.73,
+    "now": 11.73,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
