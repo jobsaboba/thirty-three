@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated": "2026-11-24T06:07:12+00:00",
+  "generated": "2026-11-24T13:02:05+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -132,35 +132,17 @@
     }
   ],
   "counts": {
-    "races": 16,
-    "picks": 19,
+    "races": 15,
+    "picks": 18,
     "trainers": 11,
-    "staked": 2.28,
-    "pending": 19
+    "staked": 2.16,
+    "pending": 17
   },
   "races": [
     {
-      "time": "11:38",
-      "meeting": "Lingfield",
-      "n": 8,
-      "picks": [
-        {
-          "horse": "Neswick",
-          "odds": "7/4",
-          "trainer": "Marcus Tregoning",
-          "wins": 2,
-          "runs": 3,
-          "sr": 67.0,
-          "res": "",
-          "pos": null,
-          "stake": 0.12
-        }
-      ]
-    },
-    {
       "time": "12:38",
       "meeting": "Lingfield",
-      "n": 11,
+      "n": 10,
       "picks": [
         {
           "horse": "Sand On The Run",
@@ -169,8 +151,8 @@
           "wins": 2,
           "runs": 4,
           "sr": 50.0,
-          "res": "",
-          "pos": 0,
+          "res": "PLACE",
+          "pos": 2,
           "stake": 0.12
         }
       ]
@@ -196,7 +178,7 @@
     {
       "time": "13:38",
       "meeting": "Lingfield",
-      "n": 9,
+      "n": 8,
       "picks": [
         {
           "horse": "Trustintimes",
@@ -214,7 +196,7 @@
     {
       "time": "13:45",
       "meeting": "Tramore",
-      "n": 12,
+      "n": 10,
       "picks": [
         {
           "horse": "Coillte M C G",
@@ -250,7 +232,7 @@
     {
       "time": "14:15",
       "meeting": "Tramore",
-      "n": 19,
+      "n": 15,
       "picks": [
         {
           "horse": "Carrigeen Ardisia",
@@ -286,7 +268,7 @@
     {
       "time": "14:38",
       "meeting": "Lingfield",
-      "n": 13,
+      "n": 11,
       "picks": [
         {
           "horse": "Pimentel",
@@ -362,7 +344,7 @@
     {
       "time": "15:50",
       "meeting": "Tramore",
-      "n": 13,
+      "n": 12,
       "picks": [
         {
           "horse": "Allez Yeats",
@@ -398,7 +380,7 @@
     {
       "time": "17:00",
       "meeting": "Wolverhampton",
-      "n": 11,
+      "n": 10,
       "picks": [
         {
           "horse": "Prosewriter",
@@ -463,8 +445,8 @@
   ],
   "bank": {
     "open": 11.73,
-    "now": 11.73,
-    "pl": 0.0,
+    "now": 11.61,
+    "pl": -0.12,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
