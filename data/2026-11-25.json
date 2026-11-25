@@ -1,0 +1,457 @@
+{
+  "date": "2026-11-25",
+  "generated": "2026-11-25T06:07:13+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "Roger Varian",
+      "wins": 5,
+      "runs": 8,
+      "sr": 63.0
+    },
+    {
+      "trainer": "Charlie Appleby",
+      "wins": 3,
+      "runs": 6,
+      "sr": 50.0
+    },
+    {
+      "trainer": "S G Carey",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Kevin Philippart De Foy",
+      "wins": 3,
+      "runs": 8,
+      "sr": 38.0
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "R T Phillips",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "A M Thomson",
+      "wins": 3,
+      "runs": 7,
+      "sr": 42.9
+    },
+    {
+      "trainer": "K Bailey M Nicholls",
+      "wins": 7,
+      "runs": 20,
+      "sr": 35.0
+    },
+    {
+      "trainer": "C Gordon",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "C Fellowes",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Owen Burrows",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "M Walford",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Lizzie Quinlan",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Robson Aguiar",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    }
+  ],
+  "counts": {
+    "races": 16,
+    "picks": 21,
+    "trainers": 8,
+    "staked": 2.1,
+    "pending": 21
+  },
+  "races": [
+    {
+      "time": "13:16",
+      "meeting": "Wetherby",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Redeeming Love",
+          "odds": "25/1",
+          "trainer": "M Walford",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "14:01",
+      "meeting": "Dundalk",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Firewalker",
+          "odds": "5/2",
+          "trainer": "Robson Aguiar",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "14:16",
+      "meeting": "Wetherby",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Punxsutawney Phil",
+          "odds": "12/1",
+          "trainer": "M Walford",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Newcastle",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Always Happy",
+          "odds": "4/1",
+          "trainer": "Roger Varian",
+          "wins": 5,
+          "runs": 8,
+          "sr": 63.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Newcastle",
+      "n": 10,
+      "picks": [
+        {
+          "horse": "Persian Coast",
+          "odds": "3/1",
+          "trainer": "Kevin Philippart De Foy",
+          "wins": 3,
+          "runs": 8,
+          "sr": 38.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        },
+        {
+          "horse": "Perfect Supernova",
+          "odds": "12/1",
+          "trainer": "C Fellowes",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "15:01",
+      "meeting": "Dundalk",
+      "n": 17,
+      "picks": [
+        {
+          "horse": "Big City Girl",
+          "odds": "12/1",
+          "trainer": "Robson Aguiar",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "15:16",
+      "meeting": "Wetherby",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Brown Eyes Falco",
+          "odds": "33/1",
+          "trainer": "M Walford",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        },
+        {
+          "horse": "Little Ruby",
+          "odds": "8/1",
+          "trainer": "M Walford",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        },
+        {
+          "horse": "Stevies Dream",
+          "odds": "33/1",
+          "trainer": "M Walford",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Newcastle",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "Global Twilight",
+          "odds": "66/1",
+          "trainer": "C Fellowes",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "15:55",
+      "meeting": "Newcastle",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Fantastic Fox",
+          "odds": "10/1",
+          "trainer": "Roger Varian",
+          "wins": 5,
+          "runs": 8,
+          "sr": 63.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        },
+        {
+          "horse": "Previous",
+          "odds": "16/1",
+          "trainer": "Kevin Philippart De Foy",
+          "wins": 3,
+          "runs": 8,
+          "sr": 38.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "16:25",
+      "meeting": "Newcastle",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Angel Love",
+          "odds": "4/1",
+          "trainer": "Kevin Philippart De Foy",
+          "wins": 3,
+          "runs": 8,
+          "sr": 38.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "17:10",
+      "meeting": "Dundalk",
+      "n": 15,
+      "picks": [
+        {
+          "horse": "Lilannbee",
+          "odds": "12/1",
+          "trainer": "S G Carey",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        },
+        {
+          "horse": "Let's Smash It",
+          "odds": "9/4",
+          "trainer": "Robson Aguiar",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "17:20",
+      "meeting": "Kempton",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "trainer": "Charlie Appleby",
+          "wins": 3,
+          "runs": 6,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "South Shore Island",
+          "odds": "10/1",
+          "trainer": "Lizzie Quinlan",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "17:50",
+      "meeting": "Kempton",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Miss Faithfull",
+          "odds": "25/1",
+          "trainer": "C Fellowes",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "n": 12,
+      "picks": [
+        {
+          "horse": "She's A Goldigger",
+          "odds": "12/1",
+          "trainer": "M Walford",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "El Cordobes",
+          "odds": "5/4",
+          "trainer": "Charlie Appleby",
+          "wins": 3,
+          "runs": 6,
+          "sr": 50.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.1
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 9.69,
+    "now": 9.69,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
