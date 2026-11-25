@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T06:07:13+00:00",
+  "generated": "2026-11-25T13:02:14+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -96,11 +96,11 @@
     }
   ],
   "counts": {
-    "races": 16,
-    "picks": 21,
+    "races": 14,
+    "picks": 19,
     "trainers": 8,
-    "staked": 2.1,
-    "pending": 21
+    "staked": 1.9,
+    "pending": 19
   },
   "races": [
     {
@@ -140,24 +140,6 @@
       ]
     },
     {
-      "time": "14:16",
-      "meeting": "Wetherby",
-      "n": 9,
-      "picks": [
-        {
-          "horse": "Punxsutawney Phil",
-          "odds": "12/1",
-          "trainer": "M Walford",
-          "wins": 2,
-          "runs": 6,
-          "sr": 33.3,
-          "res": "",
-          "pos": 0,
-          "stake": 0.1
-        }
-      ]
-    },
-    {
       "time": "14:25",
       "meeting": "Newcastle",
       "n": 12,
@@ -178,7 +160,7 @@
     {
       "time": "14:55",
       "meeting": "Newcastle",
-      "n": 10,
+      "n": 8,
       "picks": [
         {
           "horse": "Persian Coast",
@@ -207,7 +189,7 @@
     {
       "time": "15:01",
       "meeting": "Dundalk",
-      "n": 17,
+      "n": 14,
       "picks": [
         {
           "horse": "Big City Girl",
@@ -283,7 +265,7 @@
     {
       "time": "15:55",
       "meeting": "Newcastle",
-      "n": 13,
+      "n": 12,
       "picks": [
         {
           "horse": "Fantastic Fox",
@@ -330,7 +312,7 @@
     {
       "time": "17:10",
       "meeting": "Dundalk",
-      "n": 15,
+      "n": 14,
       "picks": [
         {
           "horse": "Lilannbee",
@@ -350,24 +332,6 @@
           "wins": 2,
           "runs": 6,
           "sr": 33.3,
-          "res": "",
-          "pos": 0,
-          "stake": 0.1
-        }
-      ]
-    },
-    {
-      "time": "17:20",
-      "meeting": "Kempton",
-      "n": 8,
-      "picks": [
-        {
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "trainer": "Charlie Appleby",
-          "wins": 3,
-          "runs": 6,
-          "sr": 50.0,
           "res": "",
           "pos": 0,
           "stake": 0.1
@@ -413,7 +377,7 @@
     {
       "time": "18:00",
       "meeting": "Newcastle",
-      "n": 12,
+      "n": 10,
       "picks": [
         {
           "horse": "She's A Goldigger",
