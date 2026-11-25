@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T17:33:08+00:00",
+  "generated": "2026-11-25T18:01:54+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -100,7 +100,7 @@
     "picks": 19,
     "trainers": 8,
     "staked": 1.9,
-    "pending": 4
+    "pending": 2
   },
   "races": [
     {
@@ -350,8 +350,8 @@
           "wins": 2,
           "runs": 6,
           "sr": 33.3,
-          "res": "",
-          "pos": 0,
+          "res": "PLACE",
+          "pos": 3,
           "stake": 0.1
         }
       ]
@@ -368,7 +368,7 @@
           "wins": 3,
           "runs": 9,
           "sr": 33.3,
-          "res": "",
+          "res": "LOSE",
           "pos": 0,
           "stake": 0.1
         }
@@ -413,8 +413,8 @@
   ],
   "bank": {
     "open": 9.69,
-    "now": 8.69,
-    "pl": -1.0,
+    "now": 8.49,
+    "pl": -1.2,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
