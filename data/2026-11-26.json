@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T20:02:03+00:00",
+  "generated": "2026-11-26T20:32:20+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -133,7 +133,7 @@
       "picks": [
         {
           "horse": "Colonnade",
-          "odds": "11/4",
+          "odds": "7/2",
           "trainer": "Simon Crisford",
           "wins": 3,
           "runs": 8,
