@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T14:31:53+00:00",
+  "generated": "2026-11-26T15:01:44+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -100,7 +100,7 @@
     {
       "time": "14:57",
       "meeting": "Lingfield",
-      "n": 9,
+      "n": 8,
       "picks": [
         {
           "horse": "Uncle Scrooge",
@@ -133,7 +133,7 @@
       "picks": [
         {
           "horse": "Colonnade",
-          "odds": "7/2",
+          "odds": "4/1",
           "trainer": "Simon Crisford",
           "wins": 3,
           "runs": 8,
