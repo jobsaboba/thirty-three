@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T06:07:23+00:00",
+  "generated": "2026-11-26T13:01:42+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -90,11 +90,11 @@
     }
   ],
   "counts": {
-    "races": 3,
-    "picks": 4,
+    "races": 2,
+    "picks": 3,
     "trainers": 2,
-    "staked": 0.32,
-    "pending": 4
+    "staked": 0.24,
+    "pending": 3
   },
   "races": [
     {
@@ -127,31 +127,13 @@
       ]
     },
     {
-      "time": "15:32",
-      "meeting": "Lingfield",
-      "n": 8,
-      "picks": [
-        {
-          "horse": "Moon Monarch",
-          "odds": "14/1",
-          "trainer": "C Gordon",
-          "wins": 2,
-          "runs": 6,
-          "sr": 33.3,
-          "res": "",
-          "pos": 0,
-          "stake": 0.08
-        }
-      ]
-    },
-    {
       "time": "20:30",
       "meeting": "Chelmsford",
       "n": 10,
       "picks": [
         {
           "horse": "Colonnade",
-          "odds": "5/1",
+          "odds": "4/1",
           "trainer": "Simon Crisford",
           "wins": 3,
           "runs": 8,
