@@ -1,0 +1,326 @@
+{
+  "date": "2026-11-27",
+  "generated": "2026-11-27T06:07:32+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "Simon Crisford",
+      "wins": 4,
+      "runs": 9,
+      "sr": 44.0
+    },
+    {
+      "trainer": "Charlie Appleby",
+      "wins": 4,
+      "runs": 9,
+      "sr": 44.0
+    },
+    {
+      "trainer": "Sandy Thomson",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Harry Fry",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Owen Burrows",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.0
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "R Varian",
+      "wins": 5,
+      "runs": 9,
+      "sr": 55.6
+    },
+    {
+      "trainer": "R T Phillips",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "K Bailey M Nicholls",
+      "wins": 7,
+      "runs": 20,
+      "sr": 35.0
+    },
+    {
+      "trainer": "Kerry Lee",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "D Loughnane",
+      "wins": 4,
+      "runs": 12,
+      "sr": 33.3
+    },
+    {
+      "trainer": "K P De Foy",
+      "wins": 3,
+      "runs": 9,
+      "sr": 33.3
+    },
+    {
+      "trainer": "S G Carey",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Lizzie Quinlan",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "Mrs J Williams",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    }
+  ],
+  "counts": {
+    "races": 9,
+    "picks": 13,
+    "trainers": 7,
+    "staked": 1.04,
+    "pending": 13
+  },
+  "races": [
+    {
+      "time": "11:40",
+      "meeting": "Newbury",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Loughmourne",
+          "odds": "5/1",
+          "trainer": "Harry Fry",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "14:25",
+      "meeting": "Newbury",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Kap Ouest",
+          "odds": "9/4",
+          "trainer": "Harry Fry",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Beckford's Folly",
+          "odds": "10/1",
+          "trainer": "Charlie Appleby",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        },
+        {
+          "horse": "Partisan Hero",
+          "odds": "10/1",
+          "trainer": "D Loughnane",
+          "wins": 4,
+          "runs": 12,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        },
+        {
+          "horse": "Hollywood Treasure",
+          "odds": "33/1",
+          "trainer": "K P De Foy",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "15:07",
+      "meeting": "Musselburgh",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Evenwood Sonofagun",
+          "odds": "5/1",
+          "trainer": "Lizzie Quinlan",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Newbury",
+      "n": 15,
+      "picks": [
+        {
+          "horse": "Geezer Rockstar",
+          "odds": "5/1",
+          "trainer": "Harry Fry",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Southwell",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "Gracious Gift",
+          "odds": "4/1",
+          "trainer": "Charlie Appleby",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        },
+        {
+          "horse": "Rose Chimes",
+          "odds": "16/1",
+          "trainer": "K P De Foy",
+          "wins": 3,
+          "runs": 9,
+          "sr": 33.3,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Southwell",
+      "n": 11,
+      "picks": [
+        {
+          "horse": "So This Is Love",
+          "odds": "12/1",
+          "trainer": "Charlie Appleby",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "17:15",
+      "meeting": "Southwell",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Flick Of An Eye",
+          "odds": "7/4",
+          "trainer": "Simon Crisford",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        },
+        {
+          "horse": "Georges",
+          "odds": "7/1",
+          "trainer": "Owen Burrows",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    },
+    {
+      "time": "18:45",
+      "meeting": "Southwell",
+      "n": 14,
+      "picks": [
+        {
+          "horse": "Five Moons",
+          "odds": "10/1",
+          "trainer": "Simon Crisford",
+          "wins": 4,
+          "runs": 9,
+          "sr": 44.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.08
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 8.13,
+    "now": 8.13,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
