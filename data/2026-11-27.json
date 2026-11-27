@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generated": "2026-11-27T06:07:32+00:00",
+  "generated": "2026-11-27T13:01:38+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -102,17 +102,17 @@
     }
   ],
   "counts": {
-    "races": 9,
-    "picks": 13,
+    "races": 8,
+    "picks": 11,
     "trainers": 7,
-    "staked": 1.04,
-    "pending": 13
+    "staked": 0.88,
+    "pending": 10
   },
   "races": [
     {
       "time": "11:40",
       "meeting": "Newbury",
-      "n": 13,
+      "n": 12,
       "picks": [
         {
           "horse": "Loughmourne",
@@ -121,26 +121,8 @@
           "wins": 2,
           "runs": 5,
           "sr": 40.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.08
-        }
-      ]
-    },
-    {
-      "time": "14:25",
-      "meeting": "Newbury",
-      "n": 8,
-      "picks": [
-        {
-          "horse": "Kap Ouest",
-          "odds": "9/4",
-          "trainer": "Harry Fry",
-          "wins": 2,
-          "runs": 5,
-          "sr": 40.0,
-          "res": "",
-          "pos": 0,
+          "res": "LOSE",
+          "pos": 4,
           "stake": 0.08
         }
       ]
@@ -224,7 +206,7 @@
     {
       "time": "16:15",
       "meeting": "Southwell",
-      "n": 11,
+      "n": 9,
       "picks": [
         {
           "horse": "Gracious Gift",
@@ -233,17 +215,6 @@
           "wins": 4,
           "runs": 9,
           "sr": 44.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.08
-        },
-        {
-          "horse": "Rose Chimes",
-          "odds": "16/1",
-          "trainer": "K P De Foy",
-          "wins": 3,
-          "runs": 9,
-          "sr": 33.3,
           "res": "",
           "pos": 0,
           "stake": 0.08
@@ -300,7 +271,7 @@
     {
       "time": "18:45",
       "meeting": "Southwell",
-      "n": 14,
+      "n": 13,
       "picks": [
         {
           "horse": "Five Moons",
@@ -318,8 +289,8 @@
   ],
   "bank": {
     "open": 8.13,
-    "now": 8.13,
-    "pl": 0.0,
+    "now": 8.05,
+    "pl": -0.08,
     "start": "2026-11-17",
     "start_amt": 10.0
   }
