@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-28",
+  "generated": "2026-11-28T06:07:14+00:00",
+  "source": "horseracing.net",
+  "card_source": "horseracing.net",
+  "rule": {
+    "sr_min": 33.0,
+    "wins_min": 2,
+    "days": 14,
+    "min_runners": 8
+  },
+  "hot_trainers": [
+    {
+      "trainer": "Roger Varian",
+      "wins": 6,
+      "runs": 10,
+      "sr": 60.0
+    },
+    {
+      "trainer": "Simon Crisford",
+      "wins": 5,
+      "runs": 11,
+      "sr": 45.0
+    },
+    {
+      "trainer": "Jane Williams",
+      "wins": 3,
+      "runs": 7,
+      "sr": 43.0
+    },
+    {
+      "trainer": "Jane Chapple-Hyam",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Kim Bailey & Mat Nicholls",
+      "wins": 7,
+      "runs": 20,
+      "sr": 35.0
+    },
+    {
+      "trainer": "Owen Burrows",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.0
+    },
+    {
+      "trainer": "E Doyle",
+      "wins": 2,
+      "runs": 2,
+      "sr": 100.0
+    },
+    {
+      "trainer": "R T Phillips",
+      "wins": 2,
+      "runs": 4,
+      "sr": 50.0
+    },
+    {
+      "trainer": "C Appleby",
+      "wins": 6,
+      "runs": 14,
+      "sr": 42.9
+    },
+    {
+      "trainer": "A M Thomson",
+      "wins": 2,
+      "runs": 5,
+      "sr": 40.0
+    },
+    {
+      "trainer": "Kerry Lee",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    },
+    {
+      "trainer": "S G Carey",
+      "wins": 2,
+      "runs": 6,
+      "sr": 33.3
+    }
+  ],
+  "counts": {
+    "races": 8,
+    "picks": 8,
+    "trainers": 7,
+    "staked": 0.72,
+    "pending": 8
+  },
+  "races": [
+    {
+      "time": "13:10",
+      "meeting": "Newbury",
+      "n": 18,
+      "picks": [
+        {
+          "horse": "Knight Of Allen",
+          "odds": "9/2",
+          "trainer": "Jane Williams",
+          "wins": 3,
+          "runs": 7,
+          "sr": 43.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "meeting": "Newbury",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "White Noise",
+          "odds": "16/1",
+          "trainer": "Kim Bailey & Mat Nicholls",
+          "wins": 7,
+          "runs": 20,
+          "sr": 35.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Fairyhouse",
+      "n": 28,
+      "picks": [
+        {
+          "horse": "Affiniseaandbeyond",
+          "odds": "16/1",
+          "trainer": "E Doyle",
+          "wins": 2,
+          "runs": 2,
+          "sr": 100.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Southwell",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "I Am Legend",
+          "odds": "33/1",
+          "trainer": "Jane Chapple-Hyam",
+          "wins": 2,
+          "runs": 5,
+          "sr": 40.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "n": 13,
+      "picks": [
+        {
+          "horse": "Thai Baht",
+          "odds": "6/1",
+          "trainer": "Owen Burrows",
+          "wins": 2,
+          "runs": 6,
+          "sr": 33.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Unfurled",
+          "odds": "9/2",
+          "trainer": "Simon Crisford",
+          "wins": 5,
+          "runs": 11,
+          "sr": 45.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "n": 9,
+      "picks": [
+        {
+          "horse": "Palms Oasis",
+          "odds": "5/1",
+          "trainer": "Roger Varian",
+          "wins": 6,
+          "runs": 10,
+          "sr": 60.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Southwell",
+      "n": 8,
+      "picks": [
+        {
+          "horse": "Orchard Keeper",
+          "odds": "8/1",
+          "trainer": "Roger Varian",
+          "wins": 6,
+          "runs": 10,
+          "sr": 60.0,
+          "res": "",
+          "pos": 0,
+          "stake": 0.09
+        }
+      ]
+    }
+  ],
+  "bank": {
+    "open": 8.53,
+    "now": 8.53,
+    "pl": 0.0,
+    "start": "2026-11-17",
+    "start_amt": 10.0
+  }
+}
