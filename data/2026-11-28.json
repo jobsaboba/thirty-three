@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "generated": "2026-11-28T06:07:14+00:00",
+  "generated": "2026-11-28T13:01:38+00:00",
   "source": "horseracing.net",
   "card_source": "horseracing.net",
   "rule": {
@@ -84,17 +84,17 @@
     }
   ],
   "counts": {
-    "races": 8,
-    "picks": 8,
+    "races": 7,
+    "picks": 7,
     "trainers": 7,
-    "staked": 0.72,
-    "pending": 8
+    "staked": 0.63,
+    "pending": 7
   },
   "races": [
     {
       "time": "13:10",
       "meeting": "Newbury",
-      "n": 18,
+      "n": 17,
       "picks": [
         {
           "horse": "Knight Of Allen",
@@ -130,7 +130,7 @@
     {
       "time": "14:40",
       "meeting": "Fairyhouse",
-      "n": 28,
+      "n": 25,
       "picks": [
         {
           "horse": "Affiniseaandbeyond",
@@ -207,24 +207,6 @@
         {
           "horse": "Palms Oasis",
           "odds": "5/1",
-          "trainer": "Roger Varian",
-          "wins": 6,
-          "runs": 10,
-          "sr": 60.0,
-          "res": "",
-          "pos": 0,
-          "stake": 0.09
-        }
-      ]
-    },
-    {
-      "time": "20:30",
-      "meeting": "Southwell",
-      "n": 8,
-      "picks": [
-        {
-          "horse": "Orchard Keeper",
-          "odds": "8/1",
           "trainer": "Roger Varian",
           "wins": 6,
           "runs": 10,
